@@ -1,2 +1,2 @@
-# reEmergenceH5N8
-Code and data needed to reproduce the results in article "Genesis and Evolution of the re-emerged Highly Pathogenic Avian Influenza H5N8 Viruses in the Eurasian Continents during 2019-2021"
+# reEmergenceH5Ny
+Code and data needed to reproduce the results in article "Spatio-temporal Genotype Replacements of H5N8 AIVs Contributed to H5N1 Emergence in 2021/2022"
