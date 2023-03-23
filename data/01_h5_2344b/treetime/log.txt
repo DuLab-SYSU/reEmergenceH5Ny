@@ -1,0 +1,117 @@
+Attempting to parse dates...
+	Using column 'HA' as name. This needs match the taxon names in the tree!!
+	Using column 'decimalDate' as date.
+
+0.00	-TreeAnc: set-up
+
+2.09	-WARNING: character U is unknown. Treating it as missing information
+
+2.18	WARNING: Previous versions of TreeTime (<0.7.0) RECONSTRUCTED sequences of
+    	tips at positions with AMBIGUOUS bases. This resulted in unexpected
+    	behavior is some cases and is no longer done by default. If you want to
+    	replace those ambiguous sites with their most likely state, rerun with
+    	`reconstruct_tip_states=True` or `--reconstruct-tip-states`.
+
+16.20	TreeTime.reroot: with method or node: least-squares
+
+16.21	TreeTime.reroot: rerooting will ignore covariance and shared ancestry.
+
+18.45	TreeTime.reroot: with method or node: least-squares
+
+18.45	TreeTime.reroot: rerooting will ignore covariance and shared ancestry.
+
+26.20	###TreeTime.run: INITIAL ROUND
+
+50.51	TreeTime.reroot: with method or node: least-squares
+
+50.52	TreeTime.reroot: rerooting will ignore covariance and shared ancestry.
+
+52.68	###TreeTime.run: rerunning timetree after rerooting
+
+76.68	###TreeTime.run: ITERATION 1 out of 2 iterations
+
+132.75	###TreeTime.run: ITERATION 2 out of 2 iterations
+
+187.19	TreeTime: the following tips have been marked as outliers. Their date
+      	constraints were not used. Please remove them from the tree. Their dates
+      	have been reset:
+
+187.19	EPI1897173, input date: 2018.7945205479452, apparent date: 2019.00
+
+187.19	EPI1215152, input date: 2017.0, apparent date: 2017.12
+
+187.19	EPI1215461, input date: 2017.0, apparent date: 2017.12
+
+187.19	EPI1215437, input date: 2017.0, apparent date: 2017.12
+
+187.19	EPI1215144, input date: 2017.0, apparent date: 2017.12
+
+187.19	EPI1215176, input date: 2017.0, apparent date: 2017.37
+
+187.19	EPI1104275, input date: 2017.0, apparent date: 2017.78
+
+187.19	EPI1104299, input date: 2017.0, apparent date: 2021.83
+
+187.19	EPI1977581, input date: 2020.2486338797814, apparent date: 2017.02
+
+187.19	EPI1896419, input date: 2021.0739726027398, apparent date: 2025.65
+
+187.19	EPI1574305, input date: 2016.7486338797814, apparent date: 2021.44
+
+187.19	EPI1807347, input date: 2020.139344262295, apparent date: 2019.06
+
+187.19	EPI1815191, input date: 2020.7704918032787, apparent date: 2017.05
+
+187.19	EPI1890404, input date: 2019.0082191780823, apparent date: 2016.85
+
+187.19	EPI1890500, input date: 2019.2328767123288, apparent date: 2016.85
+
+Inferred sequence evolution model (saved as treetime/sequence_evolution_model.txt):
+Substitution rate (mu): 1.0
+
+Equilibrium frequencies (pi_i):
+  A: 0.3588
+  C: 0.1697
+  G: 0.1983
+  T: 0.2633
+  -: 0.0099
+
+Symmetrized rates from j->i (W_ij):
+	A	C	G	T	-
+  A	0	0.604	3.0189	0.2644	1.6616
+  C	0.604	0	0.1017	4.1421	1.2824
+  G	3.0189	0.1017	0	0.439	1.4296
+  T	0.2644	4.1421	0.439	0	1.2525
+  -	1.6616	1.2824	1.4296	1.2525	0
+
+Actual rates from j->i (Q_ij):
+	A	C	G	T	-
+  A	0	0.2167	1.0832	0.0949	0.5962
+  C	0.1025	0	0.0173	0.7029	0.2176
+  G	0.5987	0.0202	0	0.087	0.2835
+  T	0.0696	1.0904	0.1156	0	0.3297
+  -	0.0165	0.0127	0.0142	0.0124	0
+
+
+Inferred sequence evolution model (saved as treetime/molecular_clock.txt):
+Root-Tip-Regression:
+ --rate:	4.632e-03
+ --r^2:  	0.95
+
+--- saved tree as 
+	 treetime/timetree.pdf
+
+--- root-to-tip plot saved to  
+	treetime/root_to_tip_regression.pdf
+
+--- alignment including ancestral nodes saved as  
+	 treetime/ancestral_sequences.fasta
+
+--- saved divergence times in 
+	 treetime/dates.tsv
+
+--- tree saved in nexus format as  
+	 treetime/timetree.nexus
+
+--- divergence tree saved in nexus format as  
+	 treetime/divergence_tree.nexus
