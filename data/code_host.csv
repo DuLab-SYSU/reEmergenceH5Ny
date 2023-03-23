@@ -1,0 +1,380 @@
+Host	host	host2
+Accipiter gentilis	northern goshawk	Other
+Aix galericulata	Mandarin duck	Waterfowl
+Aix galericulata	mandarin duck	Waterfowl
+Anas acuta	pintail	Waterfowl
+Anas clypeata	northern shoveler	Waterfowl
+Anas crecca	common teal	Waterfowl
+Anas crecca	Eurasian-teal	Waterfowl
+Anas crecca	Teal	Waterfowl
+Anas crecca	teal	Waterfowl
+Anas penelope	Eur_Wig	Waterfowl
+Anas penelope	Eurasian Wigeon	Waterfowl
+Anas penelope	eurasian wigeon	Waterfowl
+Anas platyrhynchos	Anas Platyrhynchos	Waterfowl
+Anas platyrhynchos	Anas platyrhynchos	Waterfowl
+Anas platyrhynchos	duck	Waterfowl
+Anas platyrhynchos	Mal	Waterfowl
+Anas platyrhynchos	Mallard	Waterfowl
+Anas platyrhynchos	mallard	Waterfowl
+Anas platyrhynchos	mallard duck	Waterfowl
+Anas platyrhynchos	Pekin duck	Waterfowl
+Anas platyrhynchos f. domestica	duck	Dom-ans
+Anas platyrhynchos var. domesticus	Anas_platyrhynchos domestica	Dom-ans
+Anas poecilorhyncha	spot-billed duck	Waterfowl
+Anas querquedula	garganey	Waterfowl
+Anas sp.	duck	Waterfowl
+Anas sp.	Mulard_duck	Waterfowl
+Anas sp.	teal	Waterfowl
+Anas sp.	wild duck	Waterfowl
+Anas strepera	gadwall	Waterfowl
+Anser albifrons	White_fronted_goose	Waterfowl
+Anser albifrons	White-fronted Goose	Waterfowl
+Anser anser	goose	Waterfowl
+Anser anser	Grey_Go	Waterfowl
+Anser anser	greylag goose	Waterfowl
+Anser anser	Greylag_goose	Waterfowl
+Anser anser domesticus	goose	Dom-ans
+Anser brachyrhynchus	Anser_brachyrhynchus	Waterfowl
+Anser brachyrhynchus	pink-footed goose	Waterfowl
+Anser fabalis	Bean Goose	Waterfowl
+Anser indicus	Bar-headed Goose	Waterfowl
+Anseriformes sp.	Aalopochen_Aegyptiaca	Waterfowl
+Avian	Anseriformes	Waterfowl
+Avian	buzzard	Other
+Avian	Chicken	Dom-gal
+Avian	chicken	Dom-gal
+Avian	Common Buzzard	Other
+Avian	Cormorant	Seabird
+Avian	cormorant	Seabird
+Avian	crow	Other
+Avian	duck	Dom-ans
+Avian	Duck	Dom-ans
+Avian	Eurasian Wigeon	Waterfowl
+Avian	gadwall	Waterfowl
+Avian	Goose	Waterfowl
+Avian	goose	Waterfowl
+Avian	great crested grebe	Waterfowl
+Avian	green-winged teal	Waterfowl
+Avian	grey heron	Waterfowl
+Avian	Greylag Goose	Waterfowl
+Avian	GuineaFowl	Dom-gal
+Avian	Herring Gull	Seabird
+Avian	Jungle crow	Other
+Avian	long-eared owl	Other
+Avian	Mallard	Waterfowl
+Avian	mallard	Waterfowl
+Avian	mandarin duck	Waterfowl
+Avian	Mute Swan	Waterfowl
+Avian	Mute swan	Waterfowl
+Avian	mute swan	Waterfowl
+Avian	Northern Goshawk	Other
+Avian	northern goshawk	Other
+Avian	owl	Other
+Avian	Pheasant	Wild-gal
+Avian	quail	Wild-gal
+Avian	spot-billed duck	Waterfowl
+Avian	tawny owl	Other
+Avian	teal	Waterfowl
+Avian	tufted duck	Waterfowl
+Avian	Turkey	Dom-gal
+Avian	Ural owl	Other
+Avian	White peacock	Other
+Avian	white stork	Waterfowl
+Avian	white_stork	Waterfowl
+Avian	wild bird	Waterfowl
+Avian	wild duck	Waterfowl
+Aythya ferina	common pochard	Waterfowl
+Aythya ferina	pochard	Waterfowl
+Aythya fuligula	T_Dk	Waterfowl
+Aythya fuligula	Tufted Duck	Waterfowl
+Aythya fuligula	tufted duck	Waterfowl
+Aythya fuligula	tufted_duck	Waterfowl
+Bean goose	bean goose	Waterfowl
+Bean goose	Taiga bean goose	Waterfowl
+Black-headed gull	black-headed gull	Seabird
+Branta bernicla	brant goose	Waterfowl
+Branta bernicla	brent_goose	Waterfowl
+Branta canadensis	Branta_canadensis	Waterfowl
+Branta canadensis	Canada goose	Waterfowl
+Branta canadensis	Canada Goose	Waterfowl
+Branta canadensis	Canada_goose	Waterfowl
+Branta canadensis	Canade goose	Waterfowl
+Branta canadensis	greater canada goose	Waterfowl
+Branta leucopsis	barnacle goose	Waterfowl
+Branta leucopsis	barnacle_goose	Waterfowl
+Bucephala clangula	Common Goldeneye	Waterfowl
+Buteo buteo	Buteo buteo	Other
+Buteo buteo	Buzzard	Other
+Buteo buteo	buzzard	Other
+Buteo buteo	common buzzard	Other
+Buteo buteo	Common_buzzard	Other
+Cairina moschata	muscovy duck	Dom-ans
+Calidris alba	sanderling	Other
+Canine	red_fox	Other
+Chicken	Brahma chicken	Dom-gal
+Chicken	Chicken	Dom-gal
+Chicken	chicken	Dom-gal
+Chicken	domestic duck	Dom-ans
+Chicken	domestic_chicken	Dom-gal
+Chicken	duck	Dom-ans
+Chicken	laying_hen	Dom-gal
+Chlidonias hybridus	Chlidonias hybrida	Seabird
+Chlidonias hybridus	whiskered tern	Seabird
+Chroicocephalus ridibundus	black-headed gull	Seabird
+Common teal	common teal	Waterfowl
+Common teal	Common_Teal	Waterfowl
+Common teal	common_teal	Waterfowl
+Common teal	eurasian teal	Waterfowl
+Cormorant	cormorant	Waterfowl
+Corvus frugilegus	Rook	Other
+Corvus macrorhynchos	jungle crow	Other
+Cygnus atratus	black swan	Waterfowl
+Cygnus atratus	Cygnus atratus	Waterfowl
+Cygnus columbianus	Bk_swan	Waterfowl
+Cygnus columbianus	Cygnus columbianus	Waterfowl
+Cygnus columbianus	tundra swan	Waterfowl
+Cygnus cygnus	whooper swan	Waterfowl
+Cygnus olor	Cygnus olor	Waterfowl
+Cygnus olor	Cygnus_olor	Waterfowl
+Cygnus olor	M_Swan	Waterfowl
+Cygnus olor	Mute swan	Waterfowl
+Cygnus olor	mute swan	Waterfowl
+Cygnus olor	Mute Swan	Waterfowl
+Cygnus olor	Mute_swan	Waterfowl
+Cygnus olor	mute_swan	Waterfowl
+Cygnus olor	swan	Waterfowl
+Cygnus olor	wild bird	Waterfowl
+Dabbling duck	Eurasian wigeon	Waterfowl
+Domestic goose	Domestic goose	Dom-ans
+Dove	pigeon	Other
+Duck	chicken	Dom-gal
+Duck	decoy_duck	Waterfowl
+Duck	Dk	Dom-ans
+Duck	domestic duck	Dom-ans
+Duck	domestic_duck	Dom-ans
+Duck	domestic_goose	Dom-ans
+Duck	Duck	Dom-ans
+Duck	duck	Dom-ans
+Duck	Eurasian wigeon	Waterfowl
+Duck	garganey	Waterfowl
+Duck	mallard	Waterfowl
+Duck	mallard duck	Waterfowl
+Duck	Mallard_duck	Waterfowl
+Duck	migratory duck	Waterfowl
+Duck	muscovy_duck	Waterfowl
+Duck	pekin_duck	Dom-ans
+Duck	pochard_duck	Waterfowl
+Duck	shoveler	Waterfowl
+Duck	Shoveler	Waterfowl
+Duck	steamer duck	Waterfowl
+Duck	teal	Waterfowl
+Duck	whistling_duck	Waterfowl
+Duck	wild duck	Waterfowl
+Eagle	Sea_eagle	Other
+Egyptian goose	Egyptian goose	Dom-ans
+Egyptian goose	egyptian goose	Waterfowl
+Eurasian curlew	curlew	Other
+Eurasian curlew	eurasian curlew	Other
+Eurasian curlew	Numenius_arquata	Other
+Falco peregrinus	Peregrine falcon	Other
+Falco peregrinus	peregrine falcon	Other
+Falco peregrinus	Peregrine_falcon	Other
+Falco tinnunculus	common kestrel	Other
+Falco tinnunculus	kestrel	Other
+Falcon	eastern buzzard	Other
+Falcon	falcon	Other
+Falcon	P_falcon	Other
+Falcon	peregrine falcon	Other
+Feces	Madarin duck	Waterfowl
+Gallinago gallinago	common snipe	Other
+Gallus gallus	Ch	Dom-gal
+Gallus gallus	Chicken	Dom-gal
+Gallus gallus	chicken	Dom-gal
+Gallus gallus domesticus	Chichen	Dom-gal
+Gallus gallus domesticus	Chicken	Dom-gal
+Gallus gallus domesticus	chicken	Dom-gal
+Gallus gallus domesticus	chiken	Dom-gal
+Gallus gallus domesticus	Chiken	Dom-gal
+Gallus gallus domesticus	Gallus_gallus	Dom-gal
+Gallus gallus domesticus	laying_hen	Dom-gal
+Goose	Anser_Brachyrhynchus_Anser_Anser	Waterfowl
+Goose	domestic goose	Dom-ans
+Goose	domestic_goose	Dom-ans
+Goose	Geese	Waterfowl
+Goose	geese	Waterfowl
+Goose	Go	Waterfowl
+Goose	Goose	Waterfowl
+Goose	goose	Waterfowl
+Goose	greater_white-fronted_goose	Waterfowl
+Goose	Hawaiian goose	Dom-ans
+Goose	pomeranian goose	Dom-ans
+Goose	tundra_bean_goose	Waterfowl
+Goose	wild goose	Waterfowl
+Goose	wild_goose	Waterfowl
+Great crested grebe 	Podiceps_cristatus	Other
+Green-winged teal	green-winged teal	Waterfowl
+Green-winged teal	green-winged-teal	Waterfowl
+Greylag goose	graylag goose	Waterfowl
+Greylag goose	greylag goose	Waterfowl
+Greylag goose	Greylag goose	Waterfowl
+Greylag goose	Greylag_goose	Waterfowl
+Greylag goose	greylag_goose	Waterfowl
+Guinea fowl	Guinea fowl	Dom-gal
+Guinea fowl	guinea_fowl	Dom-gal
+Guineafowl	guinea fowl	Dom-gal
+Guineafowl	Guinea fowl	Dom-gal
+Guineafowl	guinea_fowl	Dom-gal
+Guineafowl	Guineafowl	Dom-gal
+Guineafowl	Wildbirds_Guineafowl_Makou_Egyptian Geese	Dom-gal
+Gull	black-backed gull	Seabird
+Gull	brown-headed gull	Seabird
+Gull	Grey-Headed Gull	Seabird
+Gull	Gull	Seabird
+Gull	Gull1	Seabird
+Gull	Gull10	Seabird
+Halietus albicilla	eagle	Other
+Halietus albicilla	white-tailed eagle	Other
+Human	Astrakhan	Human
+Larus argentatus	European herring gull	Seabird
+Larus argentatus	Herring Gull	Seabird
+Larus argentatus	herring gull	Seabird
+Larus argentatus	Larus_argentatus	Seabird
+Larus brunnicephalus	Brown-headed Gull	Seabird
+Larus cachinnans	caspian_gull	Seabird
+Larus canus	C_Gull	Seabird
+Larus canus	Mew Gull	Seabird
+Larus fuscus	L-bl-ba-gull	Seabird
+Larus ridibundus	Bl_H_gull	Seabird
+Larus ridibundus	black-headed gull	Seabird
+Larus ridibundus	Gr_bk_bd_gull	Seabird
+Larus schistisagus	environment	Seabird
+Mallard	mallard	Waterfowl
+Mallard	Mallard	Waterfowl
+Mareca penelope	eurasian wigeon	Waterfowl
+Mareca penelope	wigeon	Waterfowl
+Meleagris gallopavo	Meleagris gallopavo	Dom-gal
+Meleagris gallopavo	Turkey	Dom-gal
+Meleagris gallopavo	turkey	Dom-gal
+Mulard duck	Mallard_duck	Waterfowl
+Mulard duck	Mulard Duck	Waterfowl
+Mulard duck	mulard duck	Waterfowl
+Northern pintail	northern pintail	Waterfowl
+Northern pintail	Northern_Pintail	Waterfowl
+Northern shoveler	northern shoveler	Waterfowl
+Ostrich	Ostrich	Other
+Ostrich	ostrich	Other
+Other avian	australian brushturkey	Wild-gal
+Other avian	canvasback	Waterfowl
+Other avian	Common buzzard	Other
+Other avian	common buzzard	Other
+Other avian	common buzzard 	Other
+Other avian	common coot	Wild-gal
+Other avian	common_quail	Dom-gal
+Other avian	Crow	Other
+Other avian	eagle owl	Other
+Other avian	egret	Other
+Other avian	Eurasian oystercatcher	Other
+Other avian	eurasian oystercatcher	Other
+Other avian	G_c_grebe	Other
+Other avian	gadwall	Waterfowl
+Other avian	Great Cormorant	Other
+Other avian	great egret	Other
+Other avian	greater rhea	Dom-ans
+Other avian	grebe	Other
+Other avian	heron	Waterfowl
+Other avian	long-eared owl	Other
+Other avian	Magpie	Other
+Other avian	Northern Goshawk	Other
+Other avian	northern goshawk	Other
+Other avian	northern lapwing	Other
+Other avian	Pigeon	Other
+Other avian	pigeon	Other
+Other avian	quail	Wild-gal
+Other avian	red knot	Waterfowl
+Other avian	ruddy shelduck	Waterfowl
+Other avian	shelduck	Waterfowl
+Other avian	short-eared owl	Other
+Other avian	spoonbill	Other
+Other avian	western jackdaw	Other
+Other avian	western marsh harrier	Other
+Other avian	wigeon	Waterfowl
+Other avian	wild duck	Waterfowl
+Other avian	wild goose	Waterfowl
+Other avian	Wildbirds_Guineafowl_Makou_Egyptian Geese	Other
+Parabuteo	Harris Hawk	Other
+Parabuteo unicinctus	Harris_hawk	Other
+Partridge	partridge	Wild-gal
+Passerine	Garrulus_glandarius	Other
+Pavo cristatus	peacock	Dom-gal
+Phasanius colchicus	common pheasant	Dom-gal
+Phasianus colchicus	Common pheasant	Dom-gal
+Pheasant	Pheasant	Dom-gal
+Pheasant	pheasant	Dom-gal
+Pica	Pica_pica	Other
+Pigeon	Columba_palumbus	Other
+Quail	quail	Other
+Rails	grey heron	Waterfowl
+Ruddy shelduck	Ruddy Shelduck	Waterfowl
+Sacred ibis	Sacred ibis	Other
+Sandpiper	black-tailed godwit	Other
+Sandpiper	black-tailed-godwit	Other
+Sandpiper	Black-tailed-godwit	Other
+Sandpiper	green sandpiper	Other
+Seal	seal	Other
+Somateria mollissima	common eider	Waterfowl
+Somateria spectabilis	common eider	Waterfowl
+Speckled pigeon	Speckled pigeon	Other
+Sterna hirundo	Common_tern	Seabird
+Swan	Black swan	Waterfowl
+Swan	black swan	Waterfowl
+Swan	mute swan	Waterfowl
+Swan	mute_swan	Waterfowl
+Swan	Swan	Waterfowl
+Swan	swan	Waterfowl
+Swan	Whooper swan	Waterfowl
+Swan	whooper swan	Waterfowl
+Swan	whooper_swan	Waterfowl
+Tadorna feruginea	Ruddy Shelduck	Waterfowl
+Teal	common_teal	Waterfowl
+Turkey	domestic_turkey	Dom-gal
+Turkey	Turkey	Dom-gal
+Turkey	turkey	Dom-gal
+Water sample	environment	Other
+White-fronted goose	Anser_albifrons	Waterfowl
+White-fronted goose	White-fronted Goose	Waterfowl
+White-fronted goose	white-fronted goose	Waterfowl
+Whooper swan	Whooper Swan	Waterfowl
+Whooper swan	whooper swan	Waterfowl
+Wild bird	Anser Fabalis	Waterfowl
+Wild bird	anser_anser	Waterfowl
+Wild bird	ciconia_ciconia	Other
+Wild bird	common_buzzard	Other
+Wild bird	common_eider	Waterfowl
+Wild bird	crane	Other
+Wild bird	dalmatian pelican	Other
+Wild bird	Eagle_owl	Other
+Wild bird	eurasian eagle-owl	Other
+Wild bird	Eurasian_wigeon	Waterfowl
+Wild bird	European_herring_gull	Seabird
+Wild bird	grey_heron	Waterfowl
+Wild bird	greylag_goose	Waterfowl
+Wild bird	hawk	Other
+Wild bird	house_sparrow	Other
+Wild bird	knot_wader	Waterfowl
+Wild bird	mute_swan	Waterfowl
+Wild bird	partridge	Wild-gal
+Wild bird	peregrine_falcon	Other
+Wild bird	red knot	Waterfowl
+Wild bird	seagull	Seabird
+Wild bird	white_stork	Other
+Wild bird	white-tailed_eagle	Other
+Wild bird	whooper_swan	Waterfowl
+Wild bird	wild bird	Other
+Wild bird	wild_bird	Other
+Wild bird	yellow-legged_gull	Seabird
+Wild birds	Anser Fabalis	Waterfowl
+Wild waterfowl	hooded crane	Waterfowl
+Wild waterfowl	Mandarin duck	Waterfowl
+Wild waterfowl	wild duck	Waterfowl
+Wild waterfowl	wild waterfowl	Waterfowl

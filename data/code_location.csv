@@ -1,0 +1,371 @@
+Region	Country	Province	Subregion	Latitude	Longitude
+Africa	Cameroon		Central_Africa	7.37	12.35
+Africa	Congo, the Democatic Republic of		Central_Africa	-4.04	21.76
+Asia	Kazakhstan	Akmola	Central_Asia	51.92	69.41
+Asia	Kazakhstan	Almaty Province	Central_Asia	45.01	78.42
+Asia	Kazakhstan	Kostanay	Central_Asia	53.22	63.64
+Asia	Kazakhstan	North Kazakhstan	Central_Asia	48.02	66.92
+Asia	Kazakhstan		Central_Asia	48.02	66.92
+Europe	Albania		Central_East_Europe	41.15	20.17
+Europe	Bulgaria	Kiten, Burgas	Central_East_Europe	42.23	27.77
+Europe	Bulgaria	Krivo pole, Haskovo	Central_East_Europe	41.93	25.56
+Europe	Bulgaria	Oblast Dobrich	Central_East_Europe	43.57	27.83
+Europe	Bulgaria	Slavyanovo	Central_East_Europe	41.81	25.78
+Europe	Bulgaria	Trilistnik, Plovdiv	Central_East_Europe	42.2	24.87
+Europe	Bulgaria		Central_East_Europe	42.73	25.49
+Europe	Croatia	Koprivnicko-Krizevacka Zupanija	Central_East_Europe	46.16	16.84
+Europe	Croatia	Krapinsko-Zagorska Zupanija	Central_East_Europe	46.1	15.88
+Europe	Croatia	Osjecko-Baranjska Zupanija	Central_East_Europe	45.56	18.39
+Europe	Croatia	Sisacko-Moslavacka Zupanija	Central_East_Europe	45.38	16.54
+Europe	Croatia	Vukovarsko-Srijemska Zupanija	Central_East_Europe	45.18	18.81
+Europe	Czech Republic	Hlavni mesto Praha	Central_East_Europe	50.08	14.44
+Europe	Czech Republic	Jihocesky Kraj	Central_East_Europe	48.95	14.44
+Europe	Czech Republic	Karlovarsky Kraj	Central_East_Europe	50.14	12.75
+Europe	Czech Republic	Kralovehradecky Kraj	Central_East_Europe	50.35	15.8
+Europe	Czech Republic	Liberecky Kraj	Central_East_Europe	50.66	14.76
+Europe	Czech Republic	Morovskoslezsky Kraj	Central_East_Europe	49.73	18.23
+Europe	Czech Republic	Olomoucky Kraj	Central_East_Europe	49.66	17.08
+Europe	Czech Republic	Pardubicky kraj	Central_East_Europe	49.94	16.29
+Europe	Czech Republic	Plzensky Kraj	Central_East_Europe	49.41	13.32
+Europe	Czech Republic	South Moravian Region	Central_East_Europe	48.95	16.77
+Europe	Czech Republic	Stredocesky Kraj	Central_East_Europe	49.88	14.94
+Europe	Czech Republic	Ustecky Kraj	Central_East_Europe	50.61	13.79
+Europe	Czech Republic	Vysocina Kraj	Central_East_Europe	49.45	15.64
+Europe	Czech Republic	Zlinsky Kraj	Central_East_Europe	49.22	17.77
+Europe	Czech Republic		Central_East_Europe	49.82	15.47
+Europe	Estonia		Central_East_Europe	58.6	25.01
+Europe	Hungary	Bacs-Kiskun	Central_East_Europe	46.57	19.43
+Europe	Hungary	Bekes megye	Central_East_Europe	46.67	21.04
+Europe	Hungary	Borsod-Abauj-Zemplen	Central_East_Europe	48.29	20.69
+Europe	Hungary	Budapest fovaros	Central_East_Europe	47.5	19.04
+Europe	Hungary	Csongrad megye	Central_East_Europe	46.42	20.26
+Europe	Hungary	Fejer megye	Central_East_Europe	47.12	18.53
+Europe	Hungary	Gyor-Moson-Sopron	Central_East_Europe	47.65	17.25
+Europe	Hungary	Hajdu-Bihar	Central_East_Europe	47.47	21.55
+Europe	Hungary	Jasz-Nagykun-Szolnok	Central_East_Europe	47.26	20.52
+Europe	Hungary	Komarom-Esztergom	Central_East_Europe	47.63	18.4
+Europe	Hungary	Pest megye	Central_East_Europe	47.45	19.46
+Europe	Hungary	Somogy megye	Central_East_Europe	46.55	17.59
+Europe	Hungary	Szabolcs-Szatmar-Bereg	Central_East_Europe	48.04	22
+Europe	Hungary	Tolna megye	Central_East_Europe	46.48	18.56
+Europe	Hungary	Vas	Central_East_Europe	47.09	16.68
+Europe	Hungary	Veszprem megye	Central_East_Europe	47.09	17.91
+Europe	Hungary	Zala	Central_East_Europe	46.74	16.92
+Europe	Hungary		Central_East_Europe	47.16	19.5
+Europe	Kosovo	Ferizaj	Central_East_Europe	42.37	21.15
+Europe	Kosovo	Gjilan	Central_East_Europe	42.46	21.47
+Europe	Kosovo	Kacanik	Central_East_Europe	42.23	21.26
+Europe	Kosovo	Malisheve	Central_East_Europe	42.28	20.74
+Europe	Kosovo	Mitrovica	Central_East_Europe	42.89	20.87
+Europe	Kosovo	Mitrovice	Central_East_Europe	42.89	20.87
+Europe	Kosovo	Rahovec	Central_East_Europe	42.4	20.65
+Europe	Kosovo	Shtime	Central_East_Europe	42.43	21.04
+Europe	Kosovo	Suhareke	Central_East_Europe	42.36	20.83
+Europe	Kosovo		Central_East_Europe	42.6	20.9
+Europe	Macedonia, the former Yogoslav Republic of	Opstina Struga	Central_East_Europe	41.19	20.68
+Europe	Macedonia, the former Yogoslav Republic of		Central_East_Europe	41.61	21.75
+Europe	Poland	dolnoslaskie	Central_East_Europe	51.13	16.88
+Europe	Poland	Greater Poland Voivodeship	Central_East_Europe	52.28	17.35
+Europe	Poland	Lesser Poland Voivodeship	Central_East_Europe	49.72	20.25
+Europe	Poland	Lodzkie	Central_East_Europe	51.46	19.17
+Europe	Poland	Lower Silesian Voivodeship	Central_East_Europe	51.13	16.88
+Europe	Poland	Lublin Voivodeship	Central_East_Europe	51.25	23.1
+Europe	Poland	Lubusz Voivodeship	Central_East_Europe	52.23	15.26
+Europe	Poland	Masovian Voivodeship	Central_East_Europe	51.89	21
+Europe	Poland	Mazowieckie	Central_East_Europe	51.89	21
+Europe	Poland	Podlasie Voivodeship	Central_East_Europe	53.07	22.97
+Europe	Poland	Pomeranian Voivodeship	Central_East_Europe	54.29	18.15
+Europe	Poland	Pomorskie	Central_East_Europe	54.29	18.15
+Europe	Poland	pomorskie	Central_East_Europe	54.29	18.15
+Europe	Poland	Subcarpathian Voivodeship	Central_East_Europe	50.06	22.09
+Europe	Poland	Swietokrzyskie Voivodeship	Central_East_Europe	50.63	20.94
+Europe	Poland	Warmi?sko-mazurskie	Central_East_Europe	53.87	20.7
+Europe	Poland	Warmian-Masurian Voivedeship	Central_East_Europe	53.87	20.7
+Europe	Poland	warminsko-mazurskie	Central_East_Europe	53.87	20.7
+Europe	Poland	West Pomeranian Voivodeship	Central_East_Europe	53.47	15.18
+Europe	Poland	Wielkopolskie	Central_East_Europe	52.28	17.35
+Europe	Poland	wielkopolskie	Central_East_Europe	52.28	17.35
+Europe	Poland	Zachodniopomorskie	Central_East_Europe	53.47	15.18
+Europe	Poland		Central_East_Europe	51.92	19.15
+Europe	Romania	Judetul Constanta	Central_East_Europe	44.21	28.26
+Europe	Romania	Judetul Ilfov	Central_East_Europe	44.54	26.23
+Europe	Romania	Judetul Timis	Central_East_Europe	45.81	21.33
+Europe	Romania	Mures, Ungheni	Central_East_Europe	46.48	24.46
+Europe	Romania	Tulcea Chilia Veche	Central_East_Europe	45.42	29.29
+Europe	Romania		Central_East_Europe	45.94	24.97
+Europe	Slovakia	Dobrohost	Central_East_Europe	47.98	17.36
+Europe	Slovakia	Kalinkovo	Central_East_Europe	48.06	17.25
+Europe	Slovakia	Kosice	Central_East_Europe	48.72	21.26
+Europe	Slovakia	Petrzalka	Central_East_Europe	48.11	17.11
+Europe	Slovenia		Central_East_Europe	46.15	15
+Europe	Ukraine	Kherson Oblast	Central_East_Europe	46.64	32.62
+Europe	Ukraine		Central_East_Europe	48.38	31.17
+Africa	Uganda		East_Africa	1.37	23.29
+Asia	China	Anhui	East_Asia	30.6	117.92
+Asia	China	Beijing	East_Asia	39.9	116.41
+Asia	China	Guangdong	East_Asia	23.38	113.76
+Asia	China	Guangdong Province	East_Asia	23.38	113.76
+Asia	China	Guangxi	East_Asia	22.82	108.33
+Asia	China	Hebei	East_Asia	38.04	114.47
+Asia	China	Henan	East_Asia	34.77	113.75
+Asia	China	Henan Province	East_Asia	34.77	113.75
+Asia	China	Hubei	East_Asia	30.74	112.24
+Asia	China	Hubei Province	East_Asia	30.74	112.24
+Asia	China	Hunan	East_Asia	27.63	118.86
+Asia	China	Hunan Province	East_Asia	27.63	111.86
+Asia	China	Inner Mongolia Autonomous Region	East_Asia	49.19	119.76
+Asia	China	Jiangsu	East_Asia	32.06	118.76
+Asia	China	Jiangsu Provice	East_Asia	32.06	118.76
+Asia	China	Jiangxi	East_Asia	28.67	115.91
+Asia	China	Jiangxi Province	East_Asia	28.67	115.91
+Asia	China	Liaoning	East_Asia	41.84	123.43
+Asia	China	Liaoning Province	East_Asia	41.84	123.43
+Asia	China	Ningxia	East_Asia	38.47	106.26
+Asia	China	Ningxia Hui Autonomous Region	East_Asia	38.47	106.26
+Asia	China	Qinghai Province	East_Asia	35.74	96.41
+Asia	China	Shaanxi	East_Asia	34.26	108.95
+Asia	China	Shaanxi Province	East_Asia	34.26	108.95
+Asia	China	Shandong	East_Asia	35.89	117.92
+Asia	China	Shandong Province	East_Asia	35.89	117.92
+Asia	China	Shanghai Municipality	East_Asia	31.23	121.47
+Asia	China	Shanxi	East_Asia	37.24	111.86
+Asia	China	Shanxi Province	East_Asia	37.24	111.86
+Asia	China	Sichuan Province	East_Asia	30.26	102.81
+Asia	China	Tibet	East_Asia	29.65	91.12
+Asia	China	Tibet Autonomous Region	East_Asia	29.65	91.12
+Asia	China	Xinjiang Uyghur Autonomous Region	East_Asia	42.52	87.54
+Asia	China	Zhejiang	East_Asia	30.27	120.15
+Asia	China		East_Asia	35.86	104.2
+Asia	Japan	Chiba	East_Asia	35.61	140.11
+Asia	Japan	Fukuoka	East_Asia	33.59	130.4
+Asia	Japan	Gifu	East_Asia	35.42	136.76
+Asia	Japan	Hiroshima	East_Asia	34.39	132.46
+Asia	Japan	Hokkaido	East_Asia	43.22	142.86
+Asia	Japan	Hyogo	East_Asia	34.86	134.55
+Asia	Japan	Ibaraki	East_Asia	34.22	134.02
+Asia	Japan	Kagawa	East_Asia	34.22	134.02
+Asia	Japan	Kagoshima	East_Asia	31.6	130.56
+Asia	Japan	Kochi	East_Asia	33.56	133.53
+Asia	Japan	Miyazaki	East_Asia	31.91	131.42
+Asia	Japan	Nara	East_Asia	34.69	135.8
+Asia	Japan	Niigata	East_Asia	37.92	139.04
+Asia	Japan	Oita	East_Asia	33.24	131.61
+Asia	Japan	Okayama	East_Asia	34.66	133.92
+Asia	Japan	Shiga	East_Asia	35.33	136.06
+Asia	Japan	Shimane	East_Asia	35.12	132.63
+Asia	Japan	Tochigi	East_Asia	36.38	139.73
+Asia	Japan	Tokushima	East_Asia	34.07	134.55
+Asia	Japan	Toyama	East_Asia	36.7	137.21
+Asia	Japan	Wakayama	East_Asia	33.95	135.37
+Asia	Japan	Yamaguchi	East_Asia	31.6	130.56
+Asia	Japan		East_Asia	36.2	138.25
+Asia	Korea, Republic of	CB	East_Asia	36.8	127.7
+Asia	Korea, Republic of	Chungcheongbuk-do	East_Asia	36.8	127.7
+Asia	Korea, Republic of	CN	East_Asia	36.52	126.8
+Asia	Korea, Republic of	GB	East_Asia	36.49	128.89
+Asia	Korea, Republic of	GG	East_Asia	37.41	127.52
+Asia	Korea, Republic of	GN	East_Asia	35.46	128.21
+Asia	Korea, Republic of	Gyeonggi-do	East_Asia	37.41	127.52
+Asia	Korea, Republic of	JB	East_Asia	35.72	127.15
+Asia	Korea, Republic of	Jeju-teukbyeoljachido	East_Asia	33.49	126.5
+Asia	Korea, Republic of	Jeollabuk-do	East_Asia	35.72	127.15
+Asia	Korea, Republic of	JJ	East_Asia	33.49	126.5
+Asia	Korea, Republic of	JN	East_Asia	34.87	126.99
+Asia	Korea, Republic of		East_Asia	35.91	127.77
+Asia	Mongolia		East_Asia	46.86	103.85
+Asia	Taiwan		East_Asia	23.7	120.96
+Europe	Russian Federation	Kamchatka Krai	East_Asia	61.43	166.79
+Europe	Russian Federation	Khabarovsk Krai	East_Asia	50.59	135
+Europe	Russian Federation	Primorje	East_Asia	45.05	135
+Europe	Russian Federation	Primorsky Krai	East_Asia	45.05	135
+Europe	Russian Federation	Astrakhan Oblast 	East_Europe	46.13	48.06
+Europe	Russian Federation	Chelyabinsk Oblast	East_Europe	54.43	60.88
+Europe	Russian Federation	Chelyabinsk region	East_Europe	54.43	60.88
+Europe	Russian Federation	Chuvash Republic-Chuvashia	East_Europe	55.56	46.93
+Europe	Russian Federation	Kaliningrad Oblast	East_Europe	54.82	21.48
+Europe	Russian Federation	Kostroma Oblast	East_Europe	58.55	43.95
+Europe	Russian Federation	Krasnodar Krai	East_Europe	45.64	39.71
+Europe	Russian Federation	Mari El Republic	East_Europe	56.44	47.96
+Europe	Russian Federation	Moscow Oblast	East_Europe	55.34	38.29
+Europe	Russian Federation	Oryol Oblast	East_Europe	52.79	36.92
+Europe	Russian Federation	Penza Oblast	East_Europe	53.14	44.09
+Europe	Russian Federation	Republic of Dagestan	East_Europe	42.14	47.09
+Europe	Russian Federation	Republic of Kalmykia	East_Europe	46.19	45
+Europe	Russian Federation	Republic of North Ossetia?Alania	East_Europe	43.05	44.29
+Europe	Russian Federation	Republic of Tatarstan	East_Europe	55.18	50.73
+Europe	Russian Federation	Rostov Oblast	East_Europe	47.69	41.83
+Europe	Russian Federation	Samara Oblast	East_Europe	53.2	50.16
+Europe	Russian Federation	Saratov Oblast	East_Europe	51.84	46.75
+Europe	Russian Federation	Stavropol Krai	East_Europe	44.67	43.52
+Europe	Russian Federation	Voronezh Oblast	East_Europe	50.86	39.86
+Europe	Russian Federation		East_Europe	55.34	38.29
+Europe	Russian Federation	Buryatia	North_Asia	54.83	112.41
+Europe	Russian Federation	Chany Lake	North_Asia	54.83	77.67
+Europe	Russian Federation	Kurgan Oblast	North_Asia	55.45	65.12
+Europe	Russian Federation	Kurgan region	North_Asia	55.45	65.12
+Europe	Russian Federation	Kursk Oblast	North_Asia	55.45	65.12
+Europe	Russian Federation	Novosibirsk Oblast	North_Asia	55.45	80.1
+Europe	Russian Federation	Novosibirsk Region	North_Asia	55.45	80.1
+Europe	Russian Federation	Novosibirsk region	North_Asia	55.45	80.1
+Europe	Russian Federation	Omsk	North_Asia	54.99	73.36
+Europe	Russian Federation	Omsk Oblast	North_Asia	55.06	73.72
+Europe	Russian Federation	Omsk region	North_Asia	55.06	73.72
+Europe	Russian Federation	Tyumen Oblast	North_Asia	56.96	66.95
+Europe	Russian Federation	Tyva Republic	North_Asia	51.89	95.63
+Europe	Denmark	Region Hovedstaden	North_Europe	55.68	12.55
+Europe	Denmark	Region Midtjylland	North_Europe	55.65	12.26
+Europe	Denmark	Region Nordjylland	North_Europe	56.83	9.49
+Europe	Denmark	Region Sjaland	North_Europe	55.46	11.72
+Europe	Denmark	Region Syddanmark	North_Europe	55.33	9.09
+Europe	Finland		North_Europe	61.92	25.75
+Europe	Latvia	Jurmala	North_Europe	59.95	23.62
+Europe	Lithuania	Vilnius	North_Europe	54.69	25.28
+Europe	Norway		North_Europe	60.47	8.47
+Europe	Sweden	Blekinge Lan	North_Europe	56.28	15.02
+Europe	Sweden	Dalarnas Lan	North_Europe	61.09	14.67
+Europe	Sweden	Gotlands Lan	North_Europe	57.47	18.49
+Europe	Sweden	Hallands Lan	North_Europe	56.9	12.8
+Europe	Sweden	Jonkopings Lan	North_Europe	57.37	14.34
+Europe	Sweden	Kalmar Lan	North_Europe	57.24	16.18
+Europe	Sweden	Ostergotlands Lan	North_Europe	58.35	15.52
+Europe	Sweden	Skane Lan	North_Europe	55.99	13.6
+Europe	Sweden	Sodermanlands Lan	North_Europe	59.03	16.75
+Europe	Sweden	Stockholms Lan	North_Europe	59.6	18.14
+Europe	Sweden	Uppsala Lan	North_Europe	59.86	17.64
+Europe	Sweden	Vastra Gotalands Lan	North_Europe	58.25	13.06
+Africa	South Africa	Province of the Western Cape	South_Africa	-33.23	21.86
+Africa	South Africa		South_Africa	-30.56	22.94
+Africa	Zimbabwe		South_Africa	-19.02	29.15
+Asia	Bangladesh		South_Asia	23.68	90.36
+Asia	India	National Capital Territory of Delhi	South_Asia	28.7	77.1
+Africa	Egypt	Beheira	South_East_Africa	30.85	30.34
+Africa	Egypt	Buheira	South_East_Africa	30.85	30.34
+Africa	Egypt	Cairo	South_East_Africa	30.04	31.24
+Africa	Egypt	Dakahlia	South_East_Africa	31.17	31.49
+Africa	Egypt	EL-Menia	South_East_Africa	28.09	30.76
+Africa	Egypt	Fayoum	South_East_Africa	29.45	30.58
+Africa	Egypt	Gharbiya	South_East_Africa	30.88	31.03
+Africa	Egypt	Giza	South_East_Africa	30.01	31.21
+Africa	Egypt	Kafr-Elshiekh	South_East_Africa	31.11	30.94
+Africa	Egypt	Qualiobia	South_East_Africa	30.33	31.22
+Africa	Egypt	Sharqia	South_East_Africa	30.73	31.72
+Africa	Egypt		South_East_Africa	26.82	30.8
+Asia	Cambodia		South_East_Asia	12.57	104.99
+Asia	Vietnam		South_East_Asia	14.06	108.28
+Europe	Greece	Serres	South_Europe	44.43	5.71
+Europe	Greece		South_Europe	39.07	21.82
+Europe	Italy	Asti	South_Europe	44.9	8.21
+Europe	Italy	Bergamo	South_Europe	45.7	9.68
+Europe	Italy	Brescia	South_Europe	45.53	10.21
+Europe	Italy	Como	South_Europe	45.81	9.09
+Europe	Italy	Cremona	South_Europe	45.13	10.02
+Europe	Italy	Emilia-Romagna	South_Europe	44.6	11.22
+Europe	Italy	Ferrara	South_Europe	44.84	11.62
+Europe	Italy	Friuli-Venezia Giulia	South_Europe	46.23	13.1
+Europe	Italy	Gorizia	South_Europe	45.94	13.62
+Europe	Italy	Lecce	South_Europe	40.35	18.18
+Europe	Italy	Lodi	South_Europe	38.13	-121.27
+Europe	Italy	Lombardy	South_Europe	45.48	9.85
+Europe	Italy	Mantova	South_Europe	45.16	10.79
+Europe	Italy	Milano	South_Europe	45.46	9.19
+Europe	Italy	Padova	South_Europe	45.41	11.88
+Europe	Italy	Parma	South_Europe	44.8	10.33
+Europe	Italy	Pavia	South_Europe	45.18	9.16
+Europe	Italy	Pordenone	South_Europe	45.96	12.66
+Europe	Italy	Ravenna	South_Europe	44.42	12.2
+Europe	Italy	Roma	South_Europe	41.9	12.5
+Europe	Italy	Rovigo	South_Europe	45.07	11.79
+Europe	Italy	Sondrio	South_Europe	46.17	9.88
+Europe	Italy	Torino	South_Europe	45.07	7.69
+Europe	Italy	Treviso	South_Europe	45.67	12.24
+Europe	Italy	Udine	South_Europe	46.07	13.23
+Europe	Italy	Veneto	South_Europe	45.44	12.32
+Europe	Italy	Venezia	South_Europe	45.44	12.32
+Europe	Italy	Verbano-Cusio-Ossola	South_Europe	46.14	8.27
+Europe	Italy	Verona	South_Europe	45.44	10.99
+Europe	Italy	Vicenza	South_Europe	45.55	11.54
+Europe	Italy		South_Europe	41.87	12.57
+Europe	Macedonia, the former Yogoslav Republic of	N 41°12’10, E20°42’01	South_Europe	41.2	20.7
+Europe	Spain		South_Europe	40.46	-3.75
+Africa	Nigeria	Ogun State	West_Africa	7	3.47
+Asia	Georgia		West_Asia	43.32	43.36
+Asia	Iran, Islamic Republic of		West_Asia	32.43	53.69
+Asia	Iraq	Muhafazat Ninawa	West_Asia	36.23	42.24
+Asia	Israel		West_Asia	31.05	34.85
+Europe	Austria	Leibnitz	West_Europe	46.79	15.56
+Europe	Austria	Oberneukirchen	West_Europe	48.46	14.22
+Europe	Austria	Tulln	West_Europe	48.33	16.06
+Europe	Austria	Vienna	West_Europe	48.21	16.37
+Europe	Belgium	Province de Hainaut	West_Europe	50.53	4.06
+Europe	Belgium	Province de Liege	West_Europe	50.45	5.85
+Europe	Belgium	Province de Luxembourg	West_Europe	50.05	5.47
+Europe	Belgium	Provincie Limburg	West_Europe	50.62	5.94
+Europe	Belgium	Provincie Oost-Vlaanderen	West_Europe	51.04	3.74
+Europe	Belgium	Provincie West-Vlaanderen	West_Europe	51.01	3.73
+Europe	Belgium		West_Europe	50.5	4.47
+Europe	France	Aquitaine	West_Europe	44.7	-0.3
+Europe	France	Basse-Normandie	West_Europe	48.88	-0.52
+Europe	France	Corsica	West_Europe	42.04	9.01
+Europe	France	Midi-Pyrenees	West_Europe	44.09	1.52
+Europe	France	Region Nord-Pas-De Calais	West_Europe	50.63	3.07
+Europe	France		West_Europe	46.23	2.21
+Europe	Germany	Baden-Wuerttemberg	West_Europe	48.66	9.35
+Europe	Germany	Bavaria	West_Europe	48.79	11.5
+Europe	Germany	Berlin	West_Europe	52.52	13.4
+Europe	Germany	Brandenburg	West_Europe	52.41	12.53
+Europe	Germany	Hamburg	West_Europe	53.55	9.99
+Europe	Germany	Hessen	West_Europe	50.65	9.16
+Europe	Germany	Lower Saxony	West_Europe	52.64	9.85
+Europe	Germany	Mecklenburg-Vorpommern	West_Europe	53.61	12.43
+Europe	Germany	North Rhine-Westphalia	West_Europe	51.43	7.66
+Europe	Germany	Rhineland-Palatinate	West_Europe	50.12	7.31
+Europe	Germany	Saxony	West_Europe	51.1	13.2
+Europe	Germany	Saxony-Anhalt	West_Europe	51.95	11.69
+Europe	Germany	Schleswig-Holstein	West_Europe	54.22	9.7
+Europe	Germany	Thuringia	West_Europe	51.01	10.85
+Europe	Germany		West_Europe	51.17	10.45
+Europe	Ireland		West_Europe	53.41	8.24
+Europe	Luxembourg	District de Grevenmacher	West_Europe	49.68	6.44
+Europe	Netherlands	Kamperveen	West_Europe	52.51	5.92
+Europe	Netherlands	Marker Wadden	West_Europe	52.58	5.37
+Europe	Netherlands	North Brabant	West_Europe	51.48	5.23
+Europe	Netherlands	Provincie Drenthe	West_Europe	52.95	6.62
+Europe	Netherlands	Provincie Flevoland	West_Europe	52.53	5.6
+Europe	Netherlands	Provincie Friesland	West_Europe	53.16	5.78
+Europe	Netherlands	Provincie Gelderland	West_Europe	52.05	5.87
+Europe	Netherlands	Provincie Groningen	West_Europe	52.05	5.87
+Europe	Netherlands	Provincie Limburg	West_Europe	51.44	6.06
+Europe	Netherlands	Provincie Noord-Holland	West_Europe	52.52	4.79
+Europe	Netherlands	Provincie Overijssel	West_Europe	52.44	6.5
+Europe	Netherlands	Provincie Utrecht	West_Europe	52.12	5.19
+Europe	Netherlands	Provincie Zeeland	West_Europe	51.49	3.85
+Europe	Netherlands	Provinvie Utrecht	West_Europe	52.09	5.12
+Europe	Netherlands	Rotterdam	West_Europe	51.92	4.48
+Europe	Netherlands	South Holland	West_Europe	52.02	4.49
+Europe	Netherlands		West_Europe	52.13	5.29
+Europe	Switzerland	Bielersee	West_Europe	47.08	7.17
+Europe	Switzerland	Bouveret	West_Europe	46.39	6.85
+Europe	Switzerland	Kanton Bern	West_Europe	46.8	7.71
+Europe	Switzerland	Lake Constance	West_Europe	47.64	9.39
+Europe	Switzerland	Neuenburgersee	West_Europe	46.91	6.87
+Europe	Switzerland	Yverdon-les-Bains	West_Europe	46.78	6.64
+Europe	Switzerland		West_Europe	46.82	8.23
+Europe	United Kingdom	Cheshire	West_Europe	53.23	-2.61
+Europe	United Kingdom	County of Carmarthenshire	West_Europe	51.86	-4.31
+Europe	United Kingdom	Derbyshire	West_Europe	53.1	-1.56
+Europe	United Kingdom	Devon	West_Europe	50.72	-3.53
+Europe	United Kingdom	Dorset	West_Europe	50.73	-2.34
+Europe	United Kingdom	Essex	West_Europe	51.57	0.49
+Europe	United Kingdom	Fife	West_Europe	56.21	-3.15
+Europe	United Kingdom	Gloucestershire	West_Europe	51.86	-2.24
+Europe	United Kingdom	Hertfordshire	West_Europe	51.81	-0.24
+Europe	United Kingdom	Isle of Anglesey	West_Europe	53.27	-4.43
+Europe	United Kingdom	Leicestershire	West_Europe	52.77	-1.21
+Europe	United Kingdom	Lincolnshire	West_Europe	52.96	-0.16
+Europe	United Kingdom	Norfolk	West_Europe	52.61	0.89
+Europe	United Kingdom	North Yorkshire	West_Europe	53.99	-1.54
+Europe	United Kingdom	Northern Ireland	West_Europe	54.79	-6.49
+Europe	United Kingdom	Northumberland	West_Europe	55.21	-2.08
+Europe	United Kingdom	Orkney	West_Europe	58.98	-2.96
+Europe	United Kingdom	Southport, Merseyside	West_Europe	53.65	-3.01
+Europe	United Kingdom		West_Europe	55.38	-3.44
