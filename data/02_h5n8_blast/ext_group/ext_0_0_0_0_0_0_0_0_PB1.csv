@@ -1,0 +1,263 @@
+Isolate_Id	Isolate_Name	Subtype	Host	Location	Collection_Date	Domestic_Status
+EPI_ISL_623074	A/chicken/Iraq/1/2020	A / H5N8	Chicken	Asia / Iraq / Muhafazat Ninawa	2020-05-12	Domestic
+EPI_ISL_637098	A/duck/Chelyabinsk/1207-1/2020	A / H5N8	Duck	Europe / Russian Federation / Chelyabinsk Oblast	2020-07-31	Domestic
+EPI_ISL_644145	A/chicken/Chelyabinsk/401/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Chelyabinsk Oblast / Chelyabinsk	2020-08-06	Domestic
+EPI_ISL_644122	A/goose/Omsk/0002/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk region	2020-08-13	Domestic
+EPI_ISL_644124	A/duck/Omsk/0004/2020	A / H5N8	Anas platyrhynchos f. domestica	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-13	Domestic
+EPI_ISL_644121	A/turkey/Omsk/0001/2020	A / H5N8	Meleagris gallopavo	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-13	Domestic
+EPI_ISL_644123	A/turkey/Omsk/0003/2020	A / H5N8	Meleagris gallopavo	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-13	Domestic
+EPI_ISL_626650	A/duck/Russian_Federation/Omsk/1328-2/2020	A / H5N8	Duck	Europe / Russian Federation / Omsk Oblast	2020-08-17	
+EPI_ISL_644138	A/wild duck/Omsk/01111/2020	A / H5N8	Anas sp.	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-17	Wild
+EPI_ISL_644134	A/chicken/Omsk/0118/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-17	Domestic
+EPI_ISL_644135	A/chicken/Omsk/0119/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-17	Domestic
+EPI_ISL_644140	A/chicken/Omsk/0073/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-17	Domestic
+EPI_ISL_644125	A/goose/Omsk/0111/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-17	Domestic
+EPI_ISL_644129	A/goose/Omsk/0115/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-17	Domestic
+EPI_ISL_644130	A/goose/Omsk/01161/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-17	Domestic
+EPI_ISL_644132	A/goose/Omsk/01171/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-17	Domestic
+EPI_ISL_644136	A/goose/Omsk/011101/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-08-17	Domestic
+EPI_ISL_626651	A/goose/Russian_Federation/Kurgan/1345-25/2020 	A / H5N8	Goose	Europe / Russian Federation / Kurgan Oblast	2020-08-20	
+EPI_ISL_654838	A/chicken/Kurgan/1010/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Kurgan region	2020-08-27	
+EPI_ISL_654835	A/chicken/Kurgan/1003/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Kurgan region	2020-08-27	Domestic
+EPI_ISL_739685	A/goose/Russia_Omsk region/55-1/2020	A / H5N8	Goose	Europe / Russian Federation / Omsk region	2020-08-29	
+EPI_ISL_654830	A/chicken/Omsk/30007/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-09-03	Domestic
+EPI_ISL_654831	A/goose/Omsk/30009/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-09-03	Domestic
+EPI_ISL_654829	A/goose/Omsk/30006/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-09-03	Domestic
+EPI_ISL_654827	A/goose/Omsk/30003/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-09-03	Domestic
+EPI_ISL_654826	A/goose/Omsk/30001/2020	A / H5N8	Anser anser domesticus	Europe / Russian Federation / Omsk Oblast / Omsk	2020-09-03	Domestic
+EPI_ISL_654833	A/chicken/Chelyabinsk/201/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Chelyabinsk region	2020-09-08	Domestic
+EPI_ISL_661178	A/swan/Tumen/1479-2/2020	A / H5N8	Swan	Europe / Russian Federation / Tyumen Oblast	2020-09-10	Wild
+EPI_ISL_739684	A/goose/Russia_Novosibirsk region/1-12/2020	A / H5N8	Goose	Europe / Russian Federation / Novosibirsk region	2020-09-15	
+EPI_ISL_654821	A/chicken/Saratov/29801/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Saratov Oblast / Saratov	2020-09-15	Domestic
+EPI_ISL_739686	A/chicken/Kazakhstan/Kn-3/2020	A / H5N8	Chicken	Asia / Kazakhstan / North Kazakhstan	2020-09-18	
+EPI_ISL_615073	A/domestic_goose/Kazakhstan/1-242_2-20-B/2020	A / H5N8	Goose	Asia / Kazakhstan / North Kazakhstan	2020-09-19	Domestic
+EPI_ISL_615068	A/domestic_goose/Kazakhstan/1-248_2-20-B/2020	A / H5N8	Goose	Asia / Kazakhstan / Akmola	2020-09-20	Domestic
+EPI_ISL_739688	A/chicken/Russia_Novosibirsk region/1910-1/2020	A / H5N8	Chicken	Europe / Russian Federation / Novosibirsk region	2020-09-22	
+EPI_ISL_739689	A/chicken/Russia_Novosibirsk region/1910-2/2020	A / H5N8	Chicken	Europe / Russian Federation / Novosibirsk region	2020-09-22	
+EPI_ISL_615065	A/domestic_goose/Kazakhstan/1-261_2-20-B/2020	A / H5N8	Goose	Asia / Kazakhstan / Kostanay	2020-09-22	Domestic
+EPI_ISL_614401	A/mute_swan/Kazakhstan/1-267-20-B/2020	A / H5N8	Swan	Asia / Kazakhstan / Akmola	2020-09-23	Wild
+EPI_ISL_615072	A/domestic_duck/Kazakhstan/1-274-20-B/2020	A / H5N8	Duck	Asia / Kazakhstan / Kostanay	2020-09-25	Domestic
+EPI_ISL_1114735	A/chicken/Tyumen/302-01/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Tyumen Oblast / Tyumen	2020-09-26	
+EPI_ISL_603136	A/Eurasian Wigeon/Netherlands/7/2020	A / H5N8	Avian	Europe / Netherlands	2020-10-16	
+EPI_ISL_625672	A/mute swan/Inner Mongolia/w2-1/2020	A / H5N8	Cygnus olor	Asia / China / Inner Mongolia Autonomous Region	2020-10-17	Wild
+EPI_ISL_591075	A/mute swan/Netherlands/20015931-001/2020	A / H5N8	Cygnus olor	Europe / Netherlands / Provincie Utrecht / Kockengen	2020-10-17	Wild
+EPI_ISL_1114737	A/chicken/Kostroma/304-01/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Kostroma Oblast / Kostroma	2020-10-17	
+EPI_ISL_1114741	A/chicken/Kostroma/304-06/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Kostroma Oblast / Kostroma	2020-10-17	
+EPI_ISL_1114742	A/chicken/Kostroma/304-08/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Kostroma Oblast / Kostroma	2020-10-17	
+EPI_ISL_625671	A/whooper swan/Inner Mongolia/w1-1/2020	A / H5N8	Whooper swan	Asia / China / Inner Mongolia Autonomous Region	2020-10-17	Wild
+EPI_ISL_1114746	A/chicken/Rostov-on-Don/308-02/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Rostov Oblast / Rostov-on-Don	2020-10-25	
+EPI_ISL_1114747	A/chicken/Rostov-on-Don/308-03/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Rostov Oblast / Rostov-on-Don	2020-10-25	
+EPI_ISL_603132	A/chicken/Netherlands/20016597-026030/2020	A / H5N8	Gallus gallus domesticus	Europe / Netherlands / Provincie Gelderland / West Maas en Waal / Altforst	2020-10-28	Domestic
+EPI_ISL_614400	A/barnacle goose/Germany-SH/AI02167/2020	A / H5N8	Branta leucopsis	Europe / Germany / Schleswig-Holstein	2020-10-28	Wild
+EPI_ISL_710508	A/Greylag_goose/England/033100/2020	A / H5N8	Greylag goose	Europe / United Kingdom / Gloucestershire	2020-10-30	Wild
+EPI_ISL_813979	A/peregrine_falcon/Ireland/20VIR7872-1/2020	A / H5N8	Wild bird	Europe / Ireland	2020-11	
+EPI_ISL_632318	A/greylag goose/Netherlands/20016879-001/2020	A / H5N8	Greylag goose	Europe / Netherlands / Provincie Friesland / Earnewald	2020-11-01	Wild
+EPI_ISL_632317	A/barnacle goose/Netherlands/20016935-002/2020	A / H5N8	Branta leucopsis	Europe / Netherlands / Provincie Friesland / Holwerd	2020-11-01	Wild
+EPI_ISL_626652	A/chicken/England/030720/2020	A / H5N8	Chicken	Europe / United Kingdom / Cheshire	2020-11-02	Domestic
+EPI_ISL_641377	A/chicken/Netherlands/20016978-001/2020	A / H5N8	Gallus gallus	Europe / Netherlands / Provincie Noord-Holland / Edam-Volendam	2020-11-02	Domestic
+EPI_ISL_710506	A/Canada_goose/England/032697/2020	A / H5N8	Branta canadensis	Europe / United Kingdom / Gloucestershire	2020-11-03	Wild
+EPI_ISL_710507	A/Greylag_goose/England/032698/2020	A / H5N8	Greylag goose	Europe / United Kingdom / Gloucestershire	2020-11-03	Wild
+EPI_ISL_984680	A/black-headed gull/Denmark/14139-4/2020	A / H5N8	Chroicocephalus ridibundus	Europe / Denmark / Region Syddanmark / Tonder Kommune	2020-11-04	Wild
+EPI_ISL_984670	A/barnacle goose/Denmark/14139-1/2020	A / H5N8	Branta leucopsis	Europe / Denmark / Region Syddanmark / Tonder Kommune	2020-11-04	Wild
+EPI_ISL_984673	A/barnacle goose/Denmark/14139-2/2020	A / H5N8	Branta leucopsis	Europe / Denmark / Region Syddanmark / Tonder Kommune	2020-11-04	Wild
+EPI_ISL_984675	A/barnacle goose/Denmark/14139-3/2020	A / H5N8	Branta leucopsis	Europe / Denmark / Region Syddanmark / Tonder Kommune	2020-11-04	Wild
+EPI_ISL_984681	A/barnacle goose/Denmark/14534-1/2020	A / H5N8	Branta leucopsis	Europe / Denmark / Region Syddanmark / Tonder Kommune	2020-11-04	Wild
+EPI_ISL_644735	A/Cygnus_olor/Belgium/11956_001/2020 (H5N8)	A / H5N8	Cygnus olor	Europe / Belgium / Provincie West-Vlaanderen / Oudenburg	2020-11-04	Wild
+EPI_ISL_984690	A/peregrine falcon/Denmark/14596-1/2020	A / H5N8	Falco peregrinus	Europe / Denmark / Region Syddanmark / Svendborg Kommune	2020-11-06	Wild
+EPI_ISL_1575129	A/Common Buzzard/Netherlands/4/2020	A / H5N8	Avian	Europe / Netherlands / Rotterdam	2020-11-06	
+EPI_ISL_1575130	A/Mute Swan/Netherlands/1/2020	A / H5N8	Avian	Europe / Netherlands / Rotterdam	2020-11-06	
+EPI_ISL_1575134	A/Mute Swan/Netherlands/3/2020	A / H5N8	Avian	Europe / Netherlands / Rotterdam	2020-11-06	
+EPI_ISL_984693	A/barnacle goose/Denmark/14599-1/2020	A / H5N8	Branta leucopsis	Europe / Denmark / Region Sjaland / Kalundborg Kommune	2020-11-07	Wild
+EPI_ISL_661313	A/Anser_albifrons/Belgium/11956_005/2020	A / H5N8	White-fronted goose	Europe / Belgium / Provincie West-Vlaanderen / Bredene	2020-11-07	Wild
+EPI_ISL_664102	A/Numenius_arquata/Belgium/11956_003/2020	A / H5N8	Eurasian curlew	Europe / Belgium / Provincie West-Vlaanderen / Wilskerke	2020-11-07	Wild
+EPI_ISL_1123357	A/brent_goose/England/233339/2020	A / H5N8	Branta bernicla	Europe / United Kingdom / Lincolnshire	2020-11-08	
+EPI_ISL_1123359	A/mute swan/England/263814/2020	A / H5N8	Cygnus olor	Europe / United Kingdom / Dorset	2020-11-10	Wild
+EPI_ISL_668456	A/Peregrine falcon/Sweden/SVA201117SZ0467/20KN003345/2020	A / H5N8	Falco peregrinus	Europe / Sweden / Skane Lan / Lunds Kommun	2020-11-10	Wild
+EPI_ISL_667810	A/chicken/France/20P016448/2020	A / H5N8	Gallus gallus	Europe / France / Corsica / Departement de la Haute-Corse	2020-11-10	Domestic
+EPI_ISL_641394	A/chicken/Netherlands/20017639-001/2020	A / H5N8	Gallus gallus	Europe / Netherlands / Provincie Friesland / Wons	2020-11-10	Domestic
+EPI_ISL_641395	A/chicken/Netherlands/20017694-004/2020	A / H5N8	Gallus gallus	Europe / Netherlands / Provincie Noord-Holland / Gemeente Purmerend	2020-11-11	Domestic
+EPI_ISL_668457	A/barnacle goose/Sweden/SVA201117SZ0468/KN003355/2020	A / H5N8	Branta leucopsis	Europe / Sweden / Skane Lan / Lunds Kommun	2020-11-12	Wild
+EPI_ISL_647969	A/Turkey/Sweden/SVA201114SZ0001/20KN303106/2020	A / H5N8	Meleagris gallopavo	Europe / Sweden / Skane Lan / Tomelilla Kommun	2020-11-13	Domestic
+EPI_ISL_683593	A/Eurasian_wigeon/Italy/20VIR7139-121/2020	A / H5N8	Wild bird	Europe / Italy / Veneto / Province of Rovigo / Valle Ca' Zuliani	2020-11-14	
+EPI_ISL_683594	A/mallard/Italy/20VIR7139-124_feather/2020	A / H5N8	Mallard	Europe / Italy / Veneto / Province of Rovigo / Valle Ca' Zuliani	2020-11-14	
+EPI_ISL_984695	A/chicken/Denmark/14819-6/2020	A / H5N8	Chicken	Europe / Denmark / Region Midtjylland / Randers Kommune	2020-11-15	Domestic
+EPI_ISL_984688	A/barnacle goose/Denmark/14538-1/2020	A / H5N8	Branta leucopsis	Europe / Denmark / Region Syddanmark / Sonderborg Kommune	2020-11-15	Wild
+EPI_ISL_666890	A/turkey/Croatia/104/2020	A / H5N8	Meleagris gallopavo	Europe / Croatia / Koprivnicko-Krizevacka Zupanija / Delovi	2020-11-17	Domestic
+EPI_ISL_1665263	A/mute_swan/Slovenia/1639-20_21VIR959-1/2020	A / H5N8	Swan	Europe / Slovenia	2020-11-17	
+EPI_ISL_1009710	A/wild duck/Korea/H331/2020	A / H5N8	Avian	Asia / Korea, Republic of / JJ	2020-11-17	
+EPI_ISL_1665272	A/common_buzzard/Italy/21VIR431-7/2020	A / H5N8	Wild bird	Europe / Italy / Lecce	2020-11-17	
+EPI_ISL_710512	A/whistling_duck/England/035643/2020	A / H5N8	Duck	Europe / United Kingdom / Gloucestershire	2020-11-18	Wild
+EPI_ISL_2234814	A/peregrine_falcon/Spain/3365-1_21VIR1230-1/2020	A / H5N8	Wild bird	Europe / Spain	2020-11-20	
+EPI_ISL_956414	A/Eurasian_wigeon/Italy/20VIR7301-362/2020	A / H5N8	Wild bird	Europe / Italy / Venezia	2020-11-21	
+EPI_ISL_683751	A/Eurasian_wigeon/Italy/20VIR7301-31/2020	A / H5N8	Wild bird	Europe / Italy / Veneto / Province of Venice / Jesolo	2020-11-21	
+EPI_ISL_661177	A/chicken/Poland/448/2020	A / H5N8	Gallus gallus	Europe / Poland / Greater Poland Voivodeship	2020-11-24	Domestic
+EPI_ISL_1009698	A/mallard/Korea/WA820/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-11-25	
+EPI_ISL_710504	A/turkey/England/037784/2020	A / H5N8	Turkey	Europe / United Kingdom / North Yorkshire	2020-11-28	Domestic
+EPI_ISL_1665251	A/common_teal/Italy/20VIR7439-191/2020	A / H5N8	Teal	Europe / Italy / Rovigo	2020-11-28	
+EPI_ISL_956411	A/greylag_goose/Italy/20VIR7660-6/2020	A / H5N8	Greylag goose	Europe / Italy / Venezia	2020-11-29	
+EPI_ISL_1295639	A/turkey/Norway/FU496/2020	A / H5N8	Turkey	Europe / Norway	2020-11-30	Domestic
+EPI_ISL_779129	A/turkey/Poland/464/2020(H5N8)	A / H5N8	Meleagris gallopavo	Europe / Poland / Masovian Voivodeship	2020-12-01	Domestic
+EPI_ISL_710505	A/turkey/England/038115/2020	A / H5N8	Turkey	Europe / United Kingdom / North Yorkshire	2020-12-02	Domestic
+EPI_ISL_1665264	A/mute_swan/Slovenia/1756-20_21VIR959-3/2020	A / H5N8	Swan	Europe / Slovenia	2020-12-02	
+EPI_ISL_846601	A/chicken/Poland/474/2020(H5N8)	A / H5N8	Chicken	Europe / Poland / pomorskie	2020-12-03	
+EPI_ISL_1185026	A/chicken/Astrakhan/2171-1/2020 	A / H5N8	Gallus gallus	Europe / Russian Federation / Astrakhan Oblast 	2020-12-07	Domestic
+EPI_ISL_846604	A/turkey/Poland/477/2020(H5N8)	A / H5N8	Turkey	Europe / Poland / Masovian Voivodeship / mazowieckie	2020-12-07	
+EPI_ISL_985184	A/duck/Korea/H411/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-08	
+EPI_ISL_1220094	A/tundra_bean_goose/Poland/MB132/2020	A / H5N8	Goose	Europe / Poland / West Pomeranian Voivodeship	2020-12-09	
+EPI_ISL_985187	A/duck/Korea/H431/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-10	
+EPI_ISL_1665266	A/mute_swan/Slovenia/1820-20_21VIR959-4/2020	A / H5N8	Swan	Europe / Slovenia	2020-12-10	
+EPI_ISL_1114749	A/turkey/Stavropol/320-01/2020	A / H5N8	Meleagris gallopavo	Europe / Russian Federation / Stavropol Krai / Stavropol	2020-12-11	
+EPI_ISL_985191	A/chicken/Korea/H440/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-12	
+EPI_ISL_1039239	A/chicken/Astrakhan/321-10/2020	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Astrakhan Oblast 	2020-12-12	Domestic
+EPI_ISL_1009707	A/wild bird/Korea/H467/2020	A / H5N8	Avian	Asia / Korea, Republic of / CB	2020-12-14	
+EPI_ISL_1123263	A/chicken/Scotland/043405/2020	A / H5N8	Chicken	Europe / United Kingdom / Orkney	2020-12-15	
+EPI_ISL_846624	A/wild_goose/Poland/MB142/2020(H5N8)	A / H5N8	Goose	Europe / Poland / pomorskie	2020-12-15	
+EPI_ISL_1009708	A/spot-billed duck/Korea/WA1000/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-15	
+EPI_ISL_985196	A/duck/Korea/H471/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-16	
+EPI_ISL_846623	A/swan/Poland/MB141/2020(H5N8)	A / H5N8	Swan	Europe / Poland / Pomeranian Voivodeship / pomorskie	2020-12-16	
+EPI_ISL_1009709	A/wild bird/Korea/H496-3/2020	A / H5N8	Avian	Asia / Korea, Republic of / JJ	2020-12-16	
+EPI_ISL_1123350	A/chicken/England/043683/2020	A / H5N8	Chicken	Europe / United Kingdom / Dorset	2020-12-17	
+EPI_ISL_1123351	A/duck/England/043628/2020	A / H5N8	Chicken	Europe / United Kingdom / Norfolk	2020-12-17	
+EPI_ISL_985197	A/duck/Korea/H499/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-20	
+EPI_ISL_977599	A/duck/Northern China/LSP/2020(H5N8)	A / H5N8	Duck	Asia / China / Shandong Province	2020-12-21	
+EPI_ISL_985199	A/chicken/Korea/H510/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-22	
+EPI_ISL_1123352	A/chicken/England/045984/2020	A / H5N8	Chicken	Europe / United Kingdom / Norfolk	2020-12-24	
+EPI_ISL_985206	A/chicken/Korea/H525/2020	A / H5N8	Avian	Asia / Korea, Republic of / CN	2020-12-25	
+EPI_ISL_985207	A/chicken/Korea/H526/2020	A / H5N8	Avian	Asia / Korea, Republic of / GB	2020-12-25	
+EPI_ISL_1123353	A/duck/England/046311/2020	A / H5N8	Duck	Europe / United Kingdom / Norfolk	2020-12-26	
+EPI_ISL_985211	A/duck/Korea/H538/2020	A / H5N8	Avian	Asia / Korea, Republic of / JB	2020-12-28	
+EPI_ISL_1009680	A/White peacock/Korea/H533/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-28	
+EPI_ISL_1009682	A/chicken/Korea/H544/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-29	
+EPI_ISL_1009683	A/duck/Korea/H542/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-29	
+EPI_ISL_1114752	A/mute swan/North Ossetia-Alania/325-01/2020	A / H5N8	Cygnus olor	Europe / Russian Federation / Republic of North Ossetia?Alania	2020-12-31	
+EPI_ISL_995172	A/chicken/Northern_Ireland/2020-17671_21VIR113-11/2020	A / H5N8	Chicken	Europe / United Kingdom / Northern Ireland	2020-12-31	
+EPI_ISL_1009686	A/chicken/Korea/H550/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-31	
+EPI_ISL_977595	A/duck/Southwestern China/B1904/2020(H5N8)	A / H5N8	Duck	Asia / China / Sichuan Province	2020-12-31	
+EPI_ISL_1009688	A/chicken/Korea/H001/2021	A / H5N8	Avian	Asia / Korea, Republic of / JN	2021-01-01	
+EPI_ISL_1009689	A/chicken/Korea/H002/2021	A / H5N8	Avian	Asia / Korea, Republic of / CN	2021-01-03	
+EPI_ISL_1009690	A/chicken/Korea/H008/2021	A / H5N8	Avian	Asia / Korea, Republic of / CN	2021-01-04	
+EPI_ISL_1009691	A/duck/Korea/H009/2021	A / H5N8	Avian	Asia / Korea, Republic of / JB	2021-01-04	
+EPI_ISL_1114760	A/chicken/Krasnodar/334-01/2021	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Krasnodar Krai / Krasnodar	2021-01-05	
+EPI_ISL_1114761	A/chicken/Krasnodar/334-02/2021	A / H5N8	Gallus gallus domesticus	Europe / Russian Federation / Krasnodar Krai / Krasnodar	2021-01-05	
+EPI_ISL_996003	A/chicken/Northern_Ireland/2021-000067_21VIR114-19/2021	A / H5N8	Chicken	Europe / United Kingdom / Northern Ireland	2021-01-05	
+EPI_ISL_1665260	A/mute_swan/Norway/FU5_21VIR850-3/2021	A / H5N8	Swan	Europe / Norway	2021-01-05	
+EPI_ISL_1009711	A/duck/Korea/H016/2021	A / H5N8	Avian	Asia / Korea, Republic of / JN	2021-01-06	
+EPI_ISL_2234811	A/anser_anser/Spain/102-8_21VIR1230-4/2021	A / H5N8	Wild bird	Europe / Spain	2021-01-07	
+EPI_ISL_2234813	A/ciconia_ciconia/Spain/102-1_21VIR1230-2/2021	A / H5N8	Wild bird	Europe / Spain	2021-01-07	
+EPI_ISL_1665256	A/muscovy_duck/Slovakia/Pah1_21VIR1086-1/2021	A / H5N8	Duck	Europe / Slovakia / Kosice	2021-01-08	
+EPI_ISL_2234817	A/goose/Romania/10205-t3_21VIR2593-7/2021	A / H5N8	Goose	Europe / Romania	2021-01-13	
+EPI_ISL_2234815	A/duck/Romania/10202_21VIR2593-31/2021	A / H5N8	Duck	Europe / Romania	2021-01-13	
+EPI_ISL_1114725	A/mallard/Kagoshima/KU-d89/2021	A / H5N8	Mallard	Asia / Japan / Kagoshima	2021-01-16	Wild
+EPI_ISL_2234819	A/goose/Romania/10330_21VIR2593-35/2021	A / H5N8	Goose	Europe / Romania	2021-01-19	
+EPI_ISL_956368	A/mute swan/Czech Republic/1410-2/2021	A / H5N8	Cygnus olor	Europe / Czech Republic / Jihocesky Kraj / Okres Pisek / Zlivicky pond; GPS 49°21'26.626''N 14°6'16.268''E	2021-01-19	Wild
+EPI_ISL_1098830	A/crane/Kagoshima/KU-93/2021	A / H5N8	Wild bird	Asia / Japan / Kagoshima	2021-01-19	Wild
+EPI_ISL_1665274	A/house_sparrow/Romania/10327_21VIR849-5/2021	A / H5N8	Wild bird	Europe / Romania / Judetul Ilfov	2021-01-19	
+EPI_ISL_2234820	A/hawk/Romania/10363_21VIR2593-11/2021	A / H5N8	Wild bird	Europe / Romania	2021-01-22	
+EPI_ISL_1191587	A/chicken/Czech Republic/1566-2/2021	A / H5N8	Gallus gallus domesticus	Europe / Czech Republic / Jihocesky Kraj / Okres Tabor / Dlouha Lhota/Chynov; GPS 49.3561703 N, 14.7742128 E	2021-01-22	Domestic
+EPI_ISL_1123355	A/pheasant/Wales/000252/2021	A / H5N8	Pheasant	Europe / United Kingdom / Isle of Anglesey	2021-01-26	
+EPI_ISL_1295638	A/mute_swan/Norway/FU48/2021	A / H5N8	Cygnus olor	Europe / Norway	2021-01-26	Wild
+EPI_ISL_2234810	A/seagull/Italy/21VIR2479/2021	A / H5N8	Wild bird	Europe / Italy	2021-01-28	
+EPI_ISL_1114755	A/turkey/Rostov-on-Don/332-08/2021	A / H5N8	Meleagris gallopavo	Europe / Russian Federation / Rostov Oblast / Rostov-on-Don	2021-01-29	
+EPI_ISL_1114758	A/turkey/Rostov-on-Don/332-10/2021	A / H5N8	Meleagris gallopavo	Europe / Russian Federation / Rostov Oblast / Rostov-on-Don	2021-01-29	
+EPI_ISL_1719913	A/chicken/Bulgaria/39_21VIR1454-3/2021	A / H5N8	Chicken	Europe / Bulgaria / Slavyanovo	2021-02-01	
+EPI_ISL_1665259	A/mute_swan/Austria/21014124_21VIR1085-8/2021	A / H5N8	Swan	Europe / Austria / Vienna	2021-02-01	
+EPI_ISL_1033028	A/chicken/Czech Republic/2395/2021 	A / H5N8	Gallus gallus domesticus	Europe / Czech Republic / Stredocesky Kraj / Okres Benesov / Jankov	2021-02-02	Domestic
+EPI_ISL_1033029	A/chicken/Czech Republic/2502-1/2021	A / H5N8	Gallus gallus domesticus	Europe / Czech Republic / Pardubicky kraj / Okres Chrudim / Ronov nad Doubravou; GPS 49°53'2.573''N, 15°32'2.451''E	2021-02-03	Domestic
+EPI_ISL_1057106	 A/mute swan/Czech Republic/2669-1/2021 	A / H5N8	Cygnus olor	Europe / Czech Republic / Jihocesky Kraj / Okres Tabor / Sobeslav	2021-02-04	Wild
+EPI_ISL_1420637	A/wigeon/Latvia/23903/2021	A / H5N8	Mareca penelope	Europe / Latvia / Jurmala	2021-02-04	Wild
+EPI_ISL_1033124	A/mute swan/Czech Republic/2600/2021	A / H5N8	Cygnus olor	Europe / Czech Republic / Jihocesky Kraj / Okres Strakonice / Strakonice	2021-02-04	Wild
+EPI_ISL_1719915	A/chicken/Bulgaria/50-1_21VIR1454-9/2021	A / H5N8	Chicken	Europe / Bulgaria / Slavyanovo	2021-02-08	
+EPI_ISL_1058020	A/chicken/Czech Republic/29392021 	A / H5N8	Gallus gallus domesticus	Europe / Czech Republic / Jihocesky Kraj / Okres Strakonice / Katovice	2021-02-10	Domestic
+EPI_ISL_1080480	A/mute swan/Czech Republic/3160-1/2021 	A / H5N8	Cygnus olor	Europe / Czech Republic / Liberecky Kraj / Okres Liberec / Prisovice, pond Velky pisecak, GPS: 50°34'13.630''N, 15°5'16.236''E	2021-02-14	Wild
+EPI_ISL_2111625	A/mute_swan/Poland/MB131/2021	A / H5N8	Cygnus olor	Europe / Poland / Pomeranian Voivodeship / Puck Bay (Władysławowo)	2021-02-15	Wild
+EPI_ISL_1665247	A/chicken/Italy/21VIR1151-2/2021	A / H5N8	Chicken	Europe / Italy / Pordenone	2021-02-17	
+EPI_ISL_1399231	A/chicken/Czech Republic/3531-1/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Vysocina Kraj / Okres Pelhrimov / Horni Cerekev; GPS: N 49°19.49288', E 15°19.76120'	2021-02-18	
+EPI_ISL_1399237	A/mute swan/Czech Republic/3549/2021	A / H5N8	Cygnus olor	Europe / Czech Republic / Stredocesky Kraj / Okres Nymburk / hydroelectric power Nymburk; GPS: 50°11´6.866´´N, 15°2´55.583´´E	2021-02-19	
+EPI_ISL_2113167	A/mute_swan/Poland/MB189/2021	A / H5N8	Cygnus olor	Europe / Poland / Pomeranian Voivodeship / Gdynia	2021-02-22	Wild
+EPI_ISL_1399238	A/mute swan/Czech Republic/3777/2021	A / H5N8	Cygnus olor	Europe / Czech Republic / Hlavni mesto Praha / Okres Praha / Kvetnice, Mlynsky rybnik; GPS: N 50°3.49715', E 14°40.89878'	2021-02-22	
+EPI_ISL_1399239	A/mute swan/Czech Republic/4100/2021	A / H5N8	Cygnus olor	Europe / Czech Republic / Olomoucky Kraj / Okres Jesenik / Javornik; GPS: 50°24'35.8''N, 17°2'44.78''E	2021-02-23	
+EPI_ISL_1665248	A/chicken/Italy/21VIR1293-9/2021	A / H5N8	Chicken	Europe / Italy / Padova	2021-02-23	
+EPI_ISL_1665252	A/duck/Italy/21VIR1293-15/2021	A / H5N8	Duck	Europe / Italy / Padova	2021-02-23	
+EPI_ISL_1399232	A/chicken/Czech Republic/3893/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Jihocesky Kraj / Okres Strakonice / Rojice	2021-02-25	
+EPI_ISL_1719909	A/swan/Lithuania/1258PG1_21VIR2606-2/2021	A / H5N8	Swan	Europe / Lithuania / Vilnius	2021-02-26	
+EPI_ISL_1719910	A/swan/Lithuania/1298PG1_21VIR2606-3/2021	A / H5N8	Swan	Europe / Lithuania / Vilnius	2021-02-26	
+EPI_ISL_1399233	A/chicken/Czech Republic/4092-1/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Plzensky Kraj / Okres Klatovy / Hnevnice; GPS: N 49°44.08495', E 13°6.00505'	2021-02-27	
+EPI_ISL_1279262	A/mute swan/Croatia/14/2021 	A / H5N8	Cygnus olor	Europe / Croatia / Vukovarsko-Srijemska Zupanija / River Bosut, Podgrađe	2021-03-01	Wild
+EPI_ISL_1399240	A/mute swan/Czech Republic/4270/2021	A / H5N8	Cygnus olor	Europe / Czech Republic / Stredocesky Kraj / Okres Mlada Boleslav / rybnik Ohrada, Bosen	2021-03-02	
+EPI_ISL_2113493	A/mute_swan/Poland/MB268/2021	A / H5N8	Cygnus olor	Europe / Poland / Pomeranian Voivodeship / Puck Bay (Jastarnia)	2021-03-03	Wild
+EPI_ISL_1399242	A/mute swan/Czech Republic/4606/2021	A / H5N8	Cygnus olor	Europe / Czech Republic / Zlinsky Kraj / Okres Uherske Hradiste / Ostrozska jezera, Ostrozska Nova Ves-Chylice	2021-03-04	
+EPI_ISL_1399243	A/mute swan/Czech Republic/4607-1/2021	A / H5N8	Cygnus olor	Europe / Czech Republic / Olomoucky Kraj / Okres Olomouc / Chomoutov	2021-03-04	
+EPI_ISL_3102060	A/duck/Poland/H160_21RS1385-1/2021	A / H5N8	Duck	Europe / Poland / Wielkopolskie	2021-03-05	
+EPI_ISL_2114013	A/mute_swan/Poland/MB272/2021	A / H5N8	Cygnus olor	Europe / Poland / Pomeranian Voivodeship / Stegna	2021-03-06	Wild
+EPI_ISL_1399245	A/mute swan/Czech Republic/4799/2021	A / H5N8	Cygnus olor	Europe / Czech Republic / Morovskoslezsky Kraj / Okres Opava / Katerinky u Opavy, Stribrne jezero; GPS: N 49°57.29960', E 17°53.78212'	2021-03-06	
+EPI_ISL_1399235	A/chicken/Czech Republic/4527-1/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Stredocesky Kraj / Okres Mlada Boleslav / Brezno	2021-03-06	
+EPI_ISL_1399241	A/chicken/Czech Republic/4526/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Morovskoslezsky Kraj / Okres Opava / Vyhon, Velke Hostice; GPS: N 49°55.89045', E 17°58.67035'	2021-03-06	
+EPI_ISL_1399236	A/chicken/Czech Republic/4756/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Stredocesky Kraj / Okres Pribram / Pocaply, Breznice	2021-03-10	
+EPI_ISL_1697194	A/chicken/Czech Republic/4980/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Zlinsky Kraj / Okres Uherske Hradiste / Osvetimany	2021-03-12	Domestic
+EPI_ISL_1941581	A/goose/Czech Republic/5363-10/2021	A / H5N8	Anser anser	Europe / Czech Republic / Plzensky Kraj / Okres Plzen-Jih / Zbuch, pond; GPS: 49.6897778N, 13.2289439E	2021-03-13	Wild
+EPI_ISL_1697198	A/duck/Czech Republic/5360-1/2021	A / H5N8	Anas platyrhynchos	Europe / Czech Republic / Kralovehradecky Kraj / Okres Hradec Kralove / Dobrenice	2021-03-18	Domestic
+EPI_ISL_1719911	A/swan/Lithuania/1842PG1_21VIR2606-5/2021	A / H5N8	Swan	Europe / Lithuania / Vilnius	2021-03-19	
+EPI_ISL_1719912	A/swan/Lithuania/2306PG1_21VIR2606-7/2021	A / H5N8	Swan	Europe / Lithuania / Vilnius	2021-03-19	
+EPI_ISL_1697195	A/duck/Czech Republic/5466/2021	A / H5N8	Anas platyrhynchos	Europe / Czech Republic / Pardubicky kraj / Okres Pardubice / Vapno; GPS: 50.1074822N, 15.5273825E	2021-03-19	Domestic
+EPI_ISL_1697196	A/duck/Czech Republic/5448/2021	A / H5N8	Anas platyrhynchos	Europe / Czech Republic / Stredocesky Kraj / Okres Nymburk / Vinice u Mestce Kralove	2021-03-19	Domestic
+EPI_ISL_3128523	A/dalmatian pelican/Greece/47t_21VIR3735-3/2021	A / H5N8	Wild bird	Europe / Greece / Serres	2021-03-22	
+EPI_ISL_3102067	A/chicken/Poland/H293_21RS1385-8/2021	A / H5N8	Chicken	Europe / Poland / Mazowieckie	2021-03-23	
+EPI_ISL_1697192	A/duck/Czech Republic/5792-13/2021	A / H5N8	Anas platyrhynchos	Europe / Czech Republic / Kralovehradecky Kraj / Okres Hradec Kralove / Lukova	2021-03-24	Domestic
+EPI_ISL_1697197	A/australian brushturkey/Czech Republic/5904/2021	A / H5N8	Other avian	Europe / Czech Republic / Plzensky Kraj	2021-03-25	
+EPI_ISL_1697182	A/chicken/Czech Republic/5903/2021	A / H5N8	Gallus gallus domesticus	Europe / Czech Republic / Kralovehradecky Kraj / Okres Jicin / Vysoke Veseli	2021-03-25	Domestic
+EPI_ISL_1697181	A/chicken/Czech Republic/6151/2021	A / H5N8	Gallus gallus domesticus	Europe / Czech Republic / Kralovehradecky Kraj / Okres Hradec Kralove / Kosicky	2021-03-29	Domestic
+EPI_ISL_1697188	A/chicken/Czech Republic/6532-1/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Morovskoslezsky Kraj / Okres Bruntal / Zator	2021-04-01	Domestic
+EPI_ISL_1697190	A/peacock/Czech Republic/6529-2/2021	A / H5N8	Pavo cristatus	Europe / Czech Republic / Ustecky Kraj / Okres Teplice / Bilina, Razice; GPS: 50.5215139N, 13.8259175E	2021-04-02	Domestic
+EPI_ISL_1941579	A/duck/Czech Republic/6653-5/2021	A / H5N8	Anas platyrhynchos	Europe / Czech Republic / Kralovehradecky Kraj / Okres Hradec Kralove / Stary Bydzov	2021-04-06	Domestic
+EPI_ISL_1697183	A/chicken/Czech Republic/6684/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Ustecky Kraj / Okres Most / Polerady	2021-04-06	Domestic
+EPI_ISL_1697184	A/chicken/Czech Republic/6654/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Plzensky Kraj / Okres Tacov / Bor; GPS: 49.7115939N, 12.7751636E	2021-04-06	Domestic
+EPI_ISL_3102076	A/duck/Poland/H515_21RS1385-17/2021	A / H5N8	Duck	Europe / Poland / Lodzkie	2021-04-07	
+EPI_ISL_3102077	A/duck/Poland/H514_21RS1385-18/2021	A / H5N8	Duck	Europe / Poland / Pomorskie	2021-04-07	
+EPI_ISL_3102082	A/mute_swan/Romania/11981-2_21VIR3163-6/2021	A / H5N8	Wild bird	Europe / Romania / Tulcea Chilia Veche	2021-04-08	
+EPI_ISL_3102061	A/duck/Poland/H542_21RS1385-2/2021	A / H5N8	Duck	Europe / Poland / Wielkopolskie	2021-04-09	
+EPI_ISL_1941351	A/chicken/Czech Republic/7682-9/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Kralovehradecky Kraj / Okres Hradec Kralove / Nove Mesto	2021-04-18	Domestic
+EPI_ISL_1941365	A/chicken/Czech Republic/7682-5/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Kralovehradecky Kraj / Okres Hradec Kralove / Nove Mesto	2021-04-18	Domestic
+EPI_ISL_1941417	A/chicken/Czech Republic/7681-8/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Kralovehradecky Kraj / Okres Hradec Kralove / Klamos	2021-04-18	Domestic
+EPI_ISL_1941444	A/chicken/Czech Republic/7681-7/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Kralovehradecky Kraj / Okres Hradec Kralove / Klamos	2021-04-18	Domestic
+EPI_ISL_1941578	A/chicken/Czech Republic/7681-10/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Kralovehradecky Kraj / Okres Hradec Kralove / Klamos	2021-04-18	Domestic
+EPI_ISL_3102066	A/chicken/Poland/H812_21RS1385-7/2021	A / H5N8	Chicken	Europe / Poland / Wielkopolskie	2021-04-20	
+EPI_ISL_3102078	A/mute_swan/Poland/MB396_21RS1385-19/2021	A / H5N8	Wild bird	Europe / Poland / Zachodniopomorskie	2021-04-22	
+EPI_ISL_3102056	A/chicken/Bulgaria/274-5_21VIR4270-4/2021	A / H5N8	Chicken	Europe / Bulgaria / Krivo pole, Haskovo	2021-04-23	
+EPI_ISL_3102057	A/chicken/Bulgaria/275-4_21VIR4270-6/2021	A / H5N8	Chicken	Europe / Bulgaria / Trilistnik, Plovdiv	2021-04-26	
+EPI_ISL_3102080	A/chicken/Austria/21052483_21VIR3291-1/2021	A / H5N8	Chicken	Europe / Austria / Oberneukirchen	2021-04-27	
+EPI_ISL_3142375	A/mute_swan/Austria/21051907_21VIR3291-6/2021	A / H5N8	Wild bird	Europe / Austria / Oberneukirchen	2021-04-27	
+EPI_ISL_3102068	A/chicken/Poland/H984_21RS1385-9/2021	A / H5N8	Chicken	Europe / Poland / Mazowieckie	2021-04-28	
+EPI_ISL_3102064	A/duck/Poland/H1029_21RS1385-5/2021	A / H5N8	Duck	Europe / Poland / Wielkopolskie	2021-05-01	
+EPI_ISL_3102070	A/white_stork/Poland/MB412_21RS1385-11/2021	A / H5N8	Wild bird	Europe / Poland / Mazowieckie	2021-05-02	
+EPI_ISL_3102065	A/goose/Poland/H1036_21RS1385-6/2021	A / H5N8	Goose	Europe / Poland / Wielkopolskie	2021-05-03	
+EPI_ISL_3102063	A/goose/Poland/H1044_21RS1385-4/2021	A / H5N8	Goose	Europe / Poland / Wielkopolskie	2021-05-05	
+EPI_ISL_3102058	A/chicken/Bulgaria/297-2_21VIR4270-8/2021	A / H5N8	Chicken	Europe / Bulgaria / Trilistnik, Plovdiv	2021-05-05	
+EPI_ISL_2681044	A/chicken/Romania/12448_21VIR3734-3/2021	A / H5N8	Chicken	Europe / Romania / Mures, Ungheni	2021-05-05	
+EPI_ISL_3102072	A/chicken/Poland/H1084_21RS1385-13/2021	A / H5N8	Chicken	Europe / Poland / Mazowieckie	2021-05-07	
+EPI_ISL_3102074	A/turkey/Poland/H1168_21RS1385-15/2021	A / H5N8	Turkey	Europe / Poland / Warmi?sko-mazurskie	2021-05-13	
+EPI_ISL_3102073	A/turkey/Poland/H1184_21RS1385-14/2021	A / H5N8	Turkey	Europe / Poland / Mazowieckie	2021-05-14	
+EPI_ISL_2402936	A/chicken/Czech Republic/10251-1/2021	A / H5N8	Gallus gallus	Europe / Czech Republic / Stredocesky Kraj / Okres Melnik / Chorusice	2021-05-16	Domestic
+EPI_ISL_3128529	A/chicken/Kosovo/82_21VIR5162-1/2021	A / H5N8	Chicken	Europe / Kosovo / Mitrovica	2021-05-19	
+EPI_ISL_3102079	A/turkey/Poland/H1289_21RS1385-20/2021	A / H5N8	Turkey	Europe / Poland / Mazowieckie	2021-05-24	
+EPI_ISL_3128531	A/chicken/Kosovo/90_21VIR5162-4/2021	A / H5N8	Chicken	Europe / Kosovo / Rahovec	2021-05-25	
+EPI_ISL_3128533	A/chicken/Albania/2574_21VIR5387-1/2021	A / H5N8	Chicken	Europe / Albania	2021-05-31	
+EPI_ISL_3128524	A/partridge/Kosovo/96_21VIR5162-14/2021	A / H5N8	Wild bird	Europe / Kosovo / Suhareke	2021-05-31	
+EPI_ISL_3128528	A/chicken/Kosovo/113_21VIR5162-19/2021	A / H5N8	Chicken	Europe / Kosovo / Shtime	2021-06-03	
+EPI_ISL_3128534	A/chicken/Albania/3816_21VIR5387-2/2021	A / H5N8	Chicken	Europe / Albania	2021-06-04	
+EPI_ISL_285621	A/chicken/Egypt/Gharbiya-15/2017	A / H5N8	Chicken	Africa / Egypt / Gharbiya	2017	
+EPI_ISL_268513	A/duck/Egypt/F446/2017	A / H5N8	Duck	Africa / Egypt / Cairo	2017-04-06	Domestic
+EPI_ISL_344541	A/Chicken/Egypt/AR553/2018	A / H5N8	Chicken	Africa / Egypt / Giza	2018-04-04	
+EPI_ISL_346255	A/duck/Egypt/VG1099/2018	A / H5N2	Anas platyrhynchos	Africa / Egypt / Dakahlia	2018-12-31	Domestic
+EPI_ISL_400043	A/Chicken/Egypt/AI20286/2019	A / H5N8	Chicken	Africa / Egypt	2019-04-23	Domestic
+EPI_ISL_626648	A/goose/Russian_Federation/Omsk/1680-6/2020	A / H5N5	Goose	Europe / Russian Federation / Omsk Oblast	2020-10-02	
+EPI_ISL_626647	A/chicken/Russian_Federation/Omsk/1680-10/2020	A / H5N5	Chicken	Europe / Russian Federation / Omsk Oblast	2020-10-02	
+EPI_ISL_614399	A/buzzard/Germany-MV/AI02166/2020	A / H5N5	Buteo buteo	Europe / Germany / Mecklenburg-Vorpommern	2020-10-29	Wild
+EPI_ISL_644737	A/peregrine falcon/Denmark/13776-1/2020-10-30(H5N5)	A / H5N5	Falco peregrinus	Europe / Denmark / Region Sjaland / Lolland	2020-10-30	Wild
+EPI_ISL_1123358	A/brent_goose/England/095684/2020	A / H5N5	Branta bernicla	Europe / United Kingdom / Northumberland	2020-11-12	Wild
+EPI_ISL_660264	A/Gallus_gallus/Belgium/12168_002/2020	A / H5N5	Gallus gallus domesticus	Europe / Belgium / Provincie West-Vlaanderen / Menen	2020-11-18	Domestic
+EPI_ISL_683752	A/Eurasian_wigeon/Italy/20VIR7301-34/2020	A / H5N8	Wild bird	Europe / Italy / Veneto / Province of Venice / Jesolo	2020-11-21	
+EPI_ISL_683999	A/mute swan/Wales/048068/2020	A / H5N5	Cygnus olor	Europe / United Kingdom	2020-11-24	Wild
+EPI_ISL_683997	A/mute swan/Wales/048069/2020	A / H5N5	Cygnus olor	Europe / United Kingdom	2020-11-24	Wild
+EPI_ISL_956409	A/common_teal/Italy/20VIR7439-190/2020	A / H5N5	Common teal	Europe / Italy / Rovigo	2020-11-28	
+EPI_ISL_1665267	A/mute_swan/Slovenia/1914-20_21VIR959-5/2020	A / H5N5	Swan	Europe / Slovenia	2020-12-24	
+EPI_ISL_3142407	A/turkey/Kosovo/90_21VIR5162-5/2021	A / H5N8	Turkey	Europe / Kosovo / Rahovec	2021-05-25	

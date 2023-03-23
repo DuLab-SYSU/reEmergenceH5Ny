@@ -1,0 +1,68 @@
+Isolate_Id	Isolate_Name	Subtype	Host	Location	Collection_Date	Domestic_Status
+EPI_ISL_402134	A/turkey/Poland/23/2019	A / H5N8	Meleagris gallopavo	Europe / Poland / Lublin Voivodeship	2019-12-30	Domestic
+EPI_ISL_525439	A/laying_hen/Poland/002/2020	A / H5N8	Gallus gallus domesticus	Europe / Poland / Greater Poland Voivodeship	2020-01-01	Domestic
+EPI_ISL_525440	A/chicken/Poland/003/2020	A / H5N8	Gallus gallus domesticus	Europe / Poland / Lublin Voivodeship	2020-01-02	Domestic
+EPI_ISL_525441	A/chicken/Poland/004/2020	A / H5N8	Gallus gallus domesticus	Europe / Poland / Lublin Voivodeship	2020-01-02	Domestic
+EPI_ISL_525442	A/turkey/Poland/027/2020	A / H5N8	Turkey	Europe / Poland	2020-01-09	
+EPI_ISL_419220	A/turkey/Hungary/1020_20VIR749-1/2020	A / H5N8	Turkey	Europe / Hungary	2020-01-09	
+EPI_ISL_419239	A/duck/Hungary/1565_20VIR749-2/2020	A / H5N8	Duck	Europe / Hungary	2020-01-10	
+EPI_ISL_525443	A/domestic_goose/Poland/028/2020	A / H5N8	Duck	Europe / Poland	2020-01-12	
+EPI_ISL_404993	A/white-fronted goose/Germany-BB/AI00018/2020	A / H5N8	White-fronted goose	Europe / Germany / Brandenburg / Spree/Neiße	2020-01-16	Wild
+EPI_ISL_525444	A/chicken/Poland/054/2020	A / H5N8	Chicken	Europe / Poland	2020-01-17	
+EPI_ISL_405391	A/chicken/Czech Republic/1175-1/2020	A / H5N8	Gallus gallus domesticus	Europe / Czech Republic / Vysocina Kraj / Okres Zd'ar nad Szavou / Štěpánov nad Svratkou	2020-01-17	Domestic
+EPI_ISL_525445	A/turkey/Poland/079/2020	A / H5N8	Turkey	Europe / Poland	2020-01-25	
+EPI_ISL_525447	A/turkey/Poland/096/2020	A / H5N8	Turkey	Europe / Poland	2020-01-28	
+EPI_ISL_525448	A/turkey/Poland/182/2020	A / H5N8	Turkey	Europe / Poland	2020-02-07	
+EPI_ISL_418266	A/turkey/Czech Republic/3071/2020	A / H5N8	Meleagris gallopavo	Europe / Czech Republic / Pardubicky kraj / Okres Pardubice / Slepotice, Moravany	2020-02-17	Domestic
+EPI_ISL_525449	A/domestic_duck/Poland/219/2020	A / H5N8	Duck	Europe / Poland	2020-02-20	
+EPI_ISL_525450	A/domestic_duck/Poland/221/2020	A / H5N8	Duck	Europe / Poland	2020-02-20	
+EPI_ISL_525451	A/domestic_duck/Poland/222/2020	A / H5N8	Duck	Europe / Poland	2020-02-21	
+EPI_ISL_525454	A/domestic_duck/Poland/230/2020	A / H5N8	Duck	Europe / Poland	2020-02-22	
+EPI_ISL_525464	A/domestic_duck/Poland/263/2020	A / H5N8	Duck	Europe / Poland	2020-02-26	
+EPI_ISL_525465	A/domestic_duck/Poland/271/2020	A / H5N8	Duck	Europe / Poland	2020-02-29	
+EPI_ISL_525463	A/domestic_duck/Poland/285/2020	A / H5N8	Duck	Europe / Poland	2020-03-03	
+EPI_ISL_415197	A/chicken/Germany-SN/AI00276/2020	A / H5N8	Gallus gallus domesticus	Europe / Germany / Saxony / Regierungsbezirk Leipzig / Leipzig	2020-03-12	Domestic
+EPI_ISL_417415	A/turkey/Germany-NI/AI00334/2020	A / H5N8	Turkey	Europe / Germany / Lower Saxony / Aurich	2020-03-20	Domestic
+EPI_ISL_417414	A/buzzard/Germany-SN/AI00285/2020	A / H5N8	Avian	Europe / Germany / Saxony	2020-03-20	Wild
+EPI_ISL_525461	A/turkey/Poland/366/2020	A / H5N8	Turkey	Europe / Poland	2020-03-23	
+EPI_ISL_780096	 A/Duck/Hungary/14788/2020 	A / H5N8	Duck	Europe / Hungary / Bacs-Kiskun	2020-03-25	Domestic
+EPI_ISL_796011	 A/Goose/Hungary/15267/2020	A / H5N8	Goose	Europe / Hungary / Bacs-Kiskun	2020-03-26	Domestic
+EPI_ISL_419312	A/steamer duck/Germany-SN/AI00346/2020	A / H5N8	Duck	Europe / Germany / Saxony / Zwickau	2020-03-26	Domestic
+EPI_ISL_419314	A/turkey/Germany-ST/AI00352/2020	A / H5N8	Turkey	Europe / Germany / Saxony-Anhalt / Börde	2020-03-27	Domestic
+EPI_ISL_804043	 A/Mallard_duck/Hungary/17319/2020 	A / H5N8	Duck	Europe / Hungary / Bacs-Kiskun	2020-04-07	Domestic
+EPI_ISL_804045	 A/Duck/Hungary/17806/2020 	A / H5N8	Duck	Europe / Hungary / Bacs-Kiskun	2020-04-08	Domestic
+EPI_ISL_804047	 A/Duck/Hungary/17957/2020 	A / H5N8	Duck	Europe / Hungary / Csongrad megye	2020-04-09	Domestic
+EPI_ISL_833482	 A/Goose/Hungary/18325/2020 	A / H5N8	Goose	Europe / Hungary / Bacs-Kiskun	2020-04-10	Domestic
+EPI_ISL_833579	 A/Duck/Hungary/18414/2020 	A / H5N8	Duck	Europe / Hungary / Csongrad megye	2020-04-14	Domestic
+EPI_ISL_833485	 A/Mallard_duck/Hungary/18410/2020 	A / H5N8	Mulard duck	Europe / Hungary / Csongrad megye	2020-04-14	Domestic
+EPI_ISL_810970	 A/Chicken/Hungary/18466/2020 	A / H5N8	Chicken	Europe / Hungary / Bacs-Kiskun	2020-04-14	Domestic
+EPI_ISL_811128	 A/Chicken/Hungary/18467/2020 	A / H5N8	Chicken	Europe / Hungary / Bacs-Kiskun	2020-04-14	Domestic
+EPI_ISL_810963	 A/Duck/Hungary/18444/2020 	A / H5N8	Duck	Europe / Hungary / Bacs-Kiskun	2020-04-14	Domestic
+EPI_ISL_833581	 A/Goose/Hungary/19118/2020 	A / H5N8	Goose	Europe / Hungary / Bacs-Kiskun	2020-04-17	Domestic
+EPI_ISL_846584	 A/Goose/Hungary/19128/2020 	A / H5N8	Goose	Europe / Hungary / Bacs-Kiskun	2020-04-17	Domestic
+EPI_ISL_833488	 A/Turkey/Hungary/19338/2020 	A / H5N8	Turkey	Europe / Hungary / Bacs-Kiskun	2020-04-18	Domestic
+EPI_ISL_833487	 A/Pheasant/Hungary/18731/2020 	A / H5N8	Pheasant	Europe / Hungary / Bacs-Kiskun	2020-04-19	Domestic
+EPI_ISL_811134	 A/Chicken/Hungary/19776/2020 	A / H5N8	Chicken	Europe / Hungary / Csongrad megye	2020-04-21	Domestic
+EPI_ISL_833583	 A/Goose/Hungary/19959/2020 	A / H5N8	Goose	Europe / Hungary / Csongrad megye	2020-04-22	Domestic
+EPI_ISL_811135	 A/Chicken/Hungary/20227/2020 	A / H5N8	Chicken	Europe / Hungary / Csongrad megye	2020-04-23	Domestic
+EPI_ISL_811144	 A/Goose/Hungary/21737/2020 	A / H5N8	Goose	Europe / Hungary / Bekes megye	2020-04-30	Domestic
+EPI_ISL_811146	 A/Turkey/Hungary/21753/2020 	A / H5N8	Turkey	Europe / Hungary / Csongrad megye	2020-04-30	Domestic
+EPI_ISL_846583	 A/Chicken/Hungary/21379/2020	A / H5N8	Chicken	Europe / Hungary / Bacs-Kiskun	2020-04-30	Domestic
+EPI_ISL_813972	 A/Goose/Hungary/24021/2020 	A / H5N8	Goose	Europe / Hungary / Bekes megye	2020-05-11	Domestic
+EPI_ISL_846585	 A/Chicken/Hungary/24596/2020 	A / H5N8	Chicken	Europe / Hungary / Bacs-Kiskun	2020-05-13	Domestic
+EPI_ISL_846586	 A/Chicken/Hungary/29723/2020	A / H5N8	Chicken	Europe / Hungary / Bacs-Kiskun	2020-06-05	Domestic
+EPI_ISL_631824	A/Mandarin duck/Korea/H242/2020	A / H5N8	Wild waterfowl	Asia / Korea, Republic of / Chungcheongbuk-do	2020-10-21	
+EPI_ISL_697771	A/northern pintail/Hokkaido/M13/2020	A / H5N8	Northern pintail	Asia / Japan / Hokkaido	2020-10-24	
+EPI_ISL_1009695	A/spot-billed duck/Korea/WA612/2020	A / H5N8	Avian	Asia / Korea, Republic of / CN	2020-11-03	
+EPI_ISL_681286	A/chicken/Kagawa/11C/2020	A / H5N8	Chicken	Asia / Japan / Kagawa	2020-11-04	
+EPI_ISL_1009696	A/mandarin duck/Korea/WB80/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-11-10	
+EPI_ISL_985179	A/duck/Korea/H338/2020	A / H5N8	Avian	Asia / Korea, Republic of / JB	2020-11-26	
+EPI_ISL_985180	A/chicken/Korea/H365/2020	A / H5N8	Avian	Asia / Korea, Republic of / GB	2020-12-01	
+EPI_ISL_1009702	A/mandarin duck/Korea/WA877/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-01	
+EPI_ISL_1009705	A/mandarin duck/Korea/WA913/2020	A / H5N8	Avian	Asia / Korea, Republic of / CN	2020-12-01	
+EPI_ISL_985186	A/duck/Korea/H419/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-09	
+EPI_ISL_985204	A/duck/Korea/H516/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-23	
+EPI_ISL_1009679	A/duck/Korea/H007/2020	A / H5N8	Avian	Asia / Korea, Republic of / CN	2020-12-28	
+EPI_ISL_505431	A/quail/South Africa/AI5930/2018	A / H5N8	Quail	Africa / South Africa	2018-04-06	
+EPI_ISL_505432	A/chicken/South Africa/499723/2018	A / H5N8	Chicken	Africa / South Africa	2018-06-06	
+EPI_ISL_405278	A/guinea_fowl/Nigeria/OG-GF11T_19VIR8424-7/2019_H5N8	A / H5N8	Guineafowl	Africa / Nigeria / Ogun State	2019-07-05	Domestic

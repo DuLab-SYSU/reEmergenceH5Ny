@@ -1,0 +1,126 @@
+Isolate_Id	Isolate_Name	Subtype	Host	Location	Collection_Date	Domestic_Status
+EPI_ISL_402134	A/turkey/Poland/23/2019	A / H5N8	Meleagris gallopavo	Europe / Poland / Lublin Voivodeship	2019-12-30	Domestic
+EPI_ISL_525439	A/laying_hen/Poland/002/2020	A / H5N8	Gallus gallus domesticus	Europe / Poland / Greater Poland Voivodeship	2020-01-01	Domestic
+EPI_ISL_525441	A/chicken/Poland/004/2020	A / H5N8	Gallus gallus domesticus	Europe / Poland / Lublin Voivodeship	2020-01-02	Domestic
+EPI_ISL_525442	A/turkey/Poland/027/2020	A / H5N8	Turkey	Europe / Poland	2020-01-09	
+EPI_ISL_419220	A/turkey/Hungary/1020_20VIR749-1/2020	A / H5N8	Turkey	Europe / Hungary	2020-01-09	
+EPI_ISL_419239	A/duck/Hungary/1565_20VIR749-2/2020	A / H5N8	Duck	Europe / Hungary	2020-01-10	
+EPI_ISL_525443	A/domestic_goose/Poland/028/2020	A / H5N8	Duck	Europe / Poland	2020-01-12	
+EPI_ISL_405391	A/chicken/Czech Republic/1175-1/2020	A / H5N8	Gallus gallus domesticus	Europe / Czech Republic / Vysocina Kraj / Okres Zd'ar nad Szavou / Štěpánov nad Svratkou	2020-01-17	Domestic
+EPI_ISL_525445	A/turkey/Poland/079/2020	A / H5N8	Turkey	Europe / Poland	2020-01-25	
+EPI_ISL_410291	A/chicken/Germany-BW/AI00049/2020	A / H5N8	Chicken	Europe / Germany / Baden-Wuerttemberg / Regierungsbezirk Karlsruhe / Hohenlohekreis	2020-02-06	Domestic
+EPI_ISL_525448	A/turkey/Poland/182/2020	A / H5N8	Turkey	Europe / Poland	2020-02-07	
+EPI_ISL_418266	A/turkey/Czech Republic/3071/2020	A / H5N8	Meleagris gallopavo	Europe / Czech Republic / Pardubicky kraj / Okres Pardubice / Slepotice, Moravany	2020-02-17	Domestic
+EPI_ISL_525449	A/domestic_duck/Poland/219/2020	A / H5N8	Duck	Europe / Poland	2020-02-20	
+EPI_ISL_525451	A/domestic_duck/Poland/222/2020	A / H5N8	Duck	Europe / Poland	2020-02-21	
+EPI_ISL_525452	A/domestic_duck/Poland/223/2020	A / H5N8	Duck	Europe / Poland	2020-02-21	
+EPI_ISL_525453	A/domestic_duck/Poland/229/2020	A / H5N8	Duck	Europe / Poland	2020-02-22	
+EPI_ISL_525465	A/domestic_duck/Poland/271/2020	A / H5N8	Duck	Europe / Poland	2020-02-29	
+EPI_ISL_525462	A/domestic_goose/Poland/274/2020	A / H5N8	Goose	Europe / Poland	2020-03-01	
+EPI_ISL_525463	A/domestic_duck/Poland/285/2020	A / H5N8	Duck	Europe / Poland	2020-03-03	
+EPI_ISL_415197	A/chicken/Germany-SN/AI00276/2020	A / H5N8	Gallus gallus domesticus	Europe / Germany / Saxony / Regierungsbezirk Leipzig / Leipzig	2020-03-12	Domestic
+EPI_ISL_417415	A/turkey/Germany-NI/AI00334/2020	A / H5N8	Turkey	Europe / Germany / Lower Saxony / Aurich	2020-03-20	Domestic
+EPI_ISL_417414	A/buzzard/Germany-SN/AI00285/2020	A / H5N8	Avian	Europe / Germany / Saxony	2020-03-20	Wild
+EPI_ISL_525461	A/turkey/Poland/366/2020	A / H5N8	Turkey	Europe / Poland	2020-03-23	
+EPI_ISL_780096	 A/Duck/Hungary/14788/2020 	A / H5N8	Duck	Europe / Hungary / Bacs-Kiskun	2020-03-25	Domestic
+EPI_ISL_419312	A/steamer duck/Germany-SN/AI00346/2020	A / H5N8	Duck	Europe / Germany / Saxony / Zwickau	2020-03-26	Domestic
+EPI_ISL_419314	A/turkey/Germany-ST/AI00352/2020	A / H5N8	Turkey	Europe / Germany / Saxony-Anhalt / Börde	2020-03-27	Domestic
+EPI_ISL_804043	 A/Mallard_duck/Hungary/17319/2020 	A / H5N8	Duck	Europe / Hungary / Bacs-Kiskun	2020-04-07	Domestic
+EPI_ISL_833482	 A/Goose/Hungary/18325/2020 	A / H5N8	Goose	Europe / Hungary / Bacs-Kiskun	2020-04-10	Domestic
+EPI_ISL_833579	 A/Duck/Hungary/18414/2020 	A / H5N8	Duck	Europe / Hungary / Csongrad megye	2020-04-14	Domestic
+EPI_ISL_833485	 A/Mallard_duck/Hungary/18410/2020 	A / H5N8	Mulard duck	Europe / Hungary / Csongrad megye	2020-04-14	Domestic
+EPI_ISL_810970	 A/Chicken/Hungary/18466/2020 	A / H5N8	Chicken	Europe / Hungary / Bacs-Kiskun	2020-04-14	Domestic
+EPI_ISL_810963	 A/Duck/Hungary/18444/2020 	A / H5N8	Duck	Europe / Hungary / Bacs-Kiskun	2020-04-14	Domestic
+EPI_ISL_833581	 A/Goose/Hungary/19118/2020 	A / H5N8	Goose	Europe / Hungary / Bacs-Kiskun	2020-04-17	Domestic
+EPI_ISL_846584	 A/Goose/Hungary/19128/2020 	A / H5N8	Goose	Europe / Hungary / Bacs-Kiskun	2020-04-17	Domestic
+EPI_ISL_833487	 A/Pheasant/Hungary/18731/2020 	A / H5N8	Pheasant	Europe / Hungary / Bacs-Kiskun	2020-04-19	Domestic
+EPI_ISL_811146	 A/Turkey/Hungary/21753/2020 	A / H5N8	Turkey	Europe / Hungary / Csongrad megye	2020-04-30	Domestic
+EPI_ISL_846585	 A/Chicken/Hungary/24596/2020 	A / H5N8	Chicken	Europe / Hungary / Bacs-Kiskun	2020-05-13	Domestic
+EPI_ISL_846586	 A/Chicken/Hungary/29723/2020	A / H5N8	Chicken	Europe / Hungary / Bacs-Kiskun	2020-06-05	Domestic
+EPI_ISL_631824	A/Mandarin duck/Korea/H242/2020	A / H5N8	Wild waterfowl	Asia / Korea, Republic of / Chungcheongbuk-do	2020-10-21	
+EPI_ISL_697771	A/northern pintail/Hokkaido/M13/2020	A / H5N8	Northern pintail	Asia / Japan / Hokkaido	2020-10-24	
+EPI_ISL_1009695	A/spot-billed duck/Korea/WA612/2020	A / H5N8	Avian	Asia / Korea, Republic of / CN	2020-11-03	
+EPI_ISL_681286	A/chicken/Kagawa/11C/2020	A / H5N8	Chicken	Asia / Japan / Kagawa	2020-11-04	
+EPI_ISL_1009696	A/mandarin duck/Korea/WB80/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-11-10	
+EPI_ISL_1009699	A/mandarin duck/Korea/WA831/2020	A / H5N8	Avian	Asia / Korea, Republic of / JB	2020-11-25	
+EPI_ISL_985179	A/duck/Korea/H338/2020	A / H5N8	Avian	Asia / Korea, Republic of / JB	2020-11-26	
+EPI_ISL_1009701	A/mandarin duck/Korea/WA857/2020	A / H5N8	Avian	Asia / Korea, Republic of / JB	2020-11-26	
+EPI_ISL_985180	A/chicken/Korea/H365/2020	A / H5N8	Avian	Asia / Korea, Republic of / GB	2020-12-01	
+EPI_ISL_1009702	A/mandarin duck/Korea/WA877/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-01	
+EPI_ISL_1009705	A/mandarin duck/Korea/WA913/2020	A / H5N8	Avian	Asia / Korea, Republic of / CN	2020-12-01	
+EPI_ISL_1009706	A/wild bird/Korea/H379/2020	A / H5N8	Avian	Asia / Korea, Republic of / GB	2020-12-02	
+EPI_ISL_985181	A/duck/Korea/H385/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-04	
+EPI_ISL_985182	A/chicken/Korea/H390/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-06	
+EPI_ISL_985183	A/quail/Korea/H394/2020	A / H5N8	Avian	Asia / Korea, Republic of / CB	2020-12-07	
+EPI_ISL_985185	A/quail/Korea/H412/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-08	
+EPI_ISL_985186	A/duck/Korea/H419/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-09	
+EPI_ISL_985188	A/duck/Korea/H432/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-10	
+EPI_ISL_985189	A/duck/Korea/H438/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-11	
+EPI_ISL_985190	A/duck/Korea/H439/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-11	
+EPI_ISL_985192	A/chicken/Korea/H441/2020	A / H5N8	Avian	Asia / Korea, Republic of / JB	2020-12-14	
+EPI_ISL_985195	A/chicken/Korea/H470/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-16	
+EPI_ISL_985198	A/chicken/Korea/H491/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-21	
+EPI_ISL_985200	A/duck/Korea/H509/2020	A / H5N8	Avian	Asia / Korea, Republic of / CB	2020-12-22	
+EPI_ISL_1063533	A/Mandarin duck/Kagoshima/KU-d57/2020 	A / H5N8	Aix galericulata	Asia / Japan / Kagoshima	2020-12-22	Wild
+EPI_ISL_985203	A/duck/Korea/H515/2020	A / H5N8	Avian	Asia / Korea, Republic of / JN	2020-12-23	
+EPI_ISL_985208	A/duck/Korea/H528/2020	A / H5N8	Avian	Asia / Korea, Republic of / JB	2020-12-27	
+EPI_ISL_985209	A/chicken/Korea/H531/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-28	
+EPI_ISL_985210	A/chicken/Korea/H532/2020	A / H5N8	Avian	Asia / Korea, Republic of / GG	2020-12-28	
+EPI_ISL_1009679	A/duck/Korea/H007/2020	A / H5N8	Avian	Asia / Korea, Republic of / CN	2020-12-28	
+EPI_ISL_1009684	A/duck/Korea/H548/2020	A / H5N8	Avian	Asia / Korea, Republic of / JB	2020-12-30	
+EPI_ISL_387133	A/chicken/Zimbabwe/AI4935/2017	A / H5N8	Chicken	Africa / Zimbabwe	2017-05-25	
+EPI_ISL_369336	A/chicken/South Africa/Villiers/2017	A / H5N8	Chicken	Africa / South Africa	2017-06-19	
+EPI_ISL_369337	A/chicken/South Africa/Standerton/2017	A / H5N8	Chicken	Africa / South Africa	2017-06-20	
+EPI_ISL_369338	A/chicken/South Africa/436893/2017	A / H5N8	Chicken	Africa / South Africa	2017-07-06	
+EPI_ISL_381810	A/Egyptian goose/South Africa/001/2017	A / H5N8	Egyptian goose	Africa / South Africa	2017-07-13	
+EPI_ISL_369340	A/chicken/South Africa/440638B/2017	A / H5N8	Chicken	Africa / South Africa	2017-08-01	
+EPI_ISL_369339	A/chicken/South Africa/440638A/2017	A / H5N8	Chicken	Africa / South Africa	2017-08-01	
+EPI_ISL_284197	A/Ostrich/South_Africa/S2017/08_0046_P2/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-03	
+EPI_ISL_285488	A/Ostrich/South_Africa/S2017/08_0047_P7/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-03	
+EPI_ISL_285604	A/Ostrich/South_Africa/S2017/08_0046_P3/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-03	
+EPI_ISL_285650	A/Ostrich/South_Africa/S2017/08_0046_AF/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-03	
+EPI_ISL_369341	A/chicken/South Africa/441587/2017	A / H5N8	Chicken	Africa / South Africa	2017-08-04	
+EPI_ISL_369342	A/chicken/South Africa/MC002/2017	A / H5N8	Chicken	Africa / South Africa	2017-08-04	
+EPI_ISL_369344	A/ostrich/South Africa/17080046/2017	A / H5N8	Ostrich	Africa / South Africa	2017-08-09	
+EPI_ISL_285616	A/Ostrich/South_Africa/S2017/08_0161_P8/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-11	
+EPI_ISL_381811	A/Speckled pigeon/South Africa/08-004B/2017	A / H5N8	Speckled pigeon	Africa / South Africa	2017-08-14	
+EPI_ISL_381812	A/Sacred ibis/South Africa/009/2017	A / H5N8	Sacred ibis	Africa / South Africa	2017-08-15	
+EPI_ISL_381814	A/Guinea fowl/South Africa/17080274/2017	A / H5N8	Guinea fowl	Africa / South Africa	2017-08-16	
+EPI_ISL_285610	A/Guineafowl/South_Africa/S2017/08_0274_P1/2017	A / H5N8	Guineafowl	Africa / South Africa / Province of the Western Cape	2017-08-16	
+EPI_ISL_285617	A/Guineafowl/South_Africa/S2017/08_0243_P1/2017	A / H5N8	Guineafowl	Africa / South Africa / Province of the Western Cape	2017-08-16	
+EPI_ISL_369345	A/chicken/South Africa/443397/2017	A / H5N8	Chicken	Africa / South Africa	2017-08-17	
+EPI_ISL_284196	A/Pigeon/South_Africa/S2017/08_0324_24/2017	A / H5N8	Other avian	Africa / South Africa / Province of the Western Cape	2017-08-18	
+EPI_ISL_369346	A/chicken/South Africa/17080336/2017	A / H5N8	Chicken	Africa / South Africa	2017-08-21	
+EPI_ISL_284004	A/Chicken/South_Africa/S2017/08_0336_P3/2017	A / H5N8	Gallus gallus domesticus	Africa / South Africa / Province of the Western Cape	2017-08-21	Domestic
+EPI_ISL_369347	A/Pekin duck/South Africa/17080340/2017	A / H5N8	Anas platyrhynchos	Africa / South Africa	2017-08-22	
+EPI_ISL_284198	A/Ostrich/South_Africa/S2017/08_0361_P17/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-22	
+EPI_ISL_285480	A/Ostrich/South_Africa/S2017/08_0362_P10/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-22	Domestic
+EPI_ISL_285608	A/Ostrich/South_Africa/S2017/08_0362_P8_33/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-22	
+EPI_ISL_285618	A/Ostrich/South_Africa/S2017/08_0362_P7/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-22	
+EPI_ISL_285918	A/Ostrich/South_Africa/S2017/08_0362_P8_34/2017	A / H5N8	Ostrich	Africa / South Africa / Province of the Western Cape	2017-08-22	
+EPI_ISL_285606	A/Duck/South_Africa/S2017/08_0340_P1/2017	A / H5N8	Duck	Africa / South Africa / Province of the Western Cape	2017-08-22	
+EPI_ISL_285623	A/Chicken/South_Africa/S2017/08_0416_38/2017	A / H5N8	Chicken	Africa / South Africa / Province of the Western Cape	2017-08-23	
+EPI_ISL_285625	A/Duck/South_Africa/S2017/08_0481_P2/2017	A / H5N8	Duck	Africa / South Africa / Province of the Western Cape	2017-08-24	
+EPI_ISL_369349	A/Swan/South Africa/17080517/2017	A / H5N8	Swan	Africa / South Africa	2017-08-28	
+EPI_ISL_285647	A/Geese/South_Africa/S2017/08_0520_46/2017	A / H5N8	Goose	Africa / South Africa / Province of the Western Cape	2017-08-28	
+EPI_ISL_285627	A/Swan/South_Africa/S2017/08_0517_P2/2017	A / H5N8	Swan	Africa / South Africa / Province of the Western Cape	2017-08-28	
+EPI_ISL_285609	A/Geese/South_Africa/S2017/08_0558_P2/2017	A / H5N8	Goose	Africa / South Africa / Province of the Western Cape	2017-08-29	Domestic
+EPI_ISL_285658	A/Chicken/South_Africa/S2017/08_0561_P1/2017	A / H5N8	Gallus gallus domesticus	Africa / South Africa / Province of the Western Cape	2017-08-29	
+EPI_ISL_369352	A/chicken/South Africa/17090050/2017	A / H5N8	Chicken	Africa / South Africa	2017-09-04	
+EPI_ISL_378312	A/Domestic goose/South Africa/17090065/2017	A / H5N8	Domestic goose	Africa / South Africa	2017-09-04	
+EPI_ISL_284692	A/Geese/South_Africa/S2017/09_0055_P2/2017	A / H5N8	Goose	Africa / South Africa / Province of the Western Cape	2017-09-04	Domestic
+EPI_ISL_285601	A/Geese/South_Africa/S2017/09_0065_P1/2017	A / H5N8	Goose	Africa / South Africa / Province of the Western Cape	2017-09-04	
+EPI_ISL_285602	A/Geese/South_Africa/S2017/09_0065_P2/2017	A / H5N8	Goose	Africa / South Africa / Province of the Western Cape	2017-09-04	
+EPI_ISL_285648	A/Geese/South_Africa/S2017/09_0055_P1/2017	A / H5N8	Goose	Africa / South Africa / Province of the Western Cape	2017-09-04	
+EPI_ISL_369353	A/chicken/South Africa/17090100/2017	A / H5N8	Chicken	Africa / South Africa	2017-09-06	
+EPI_ISL_285649	A/Chicken/South_Africa/S2017/09_0184_63/2017	A / H5N8	Gallus gallus domesticus	Africa / South Africa / Province of the Western Cape	2017-09-08	
+EPI_ISL_369355	A/chicken/South Africa/448475/2017	A / H5N8	Chicken	Africa / South Africa	2017-09-12	
+EPI_ISL_369357	A/chicken/South Africa/449300/2017	A / H5N8	Chicken	Africa / South Africa	2017-09-16	
+EPI_ISL_369358	A/chicken/South Africa/17090348/2017	A / H5N8	Chicken	Africa / South Africa	2017-09-18	
+EPI_ISL_369361	A/chicken/South Africa/17090335/2017	A / H5N8	Chicken	Africa / South Africa	2017-09-18	
+EPI_ISL_369362	A/turkey/South Africa/450199/2017	A / H5N8	Turkey	Africa / South Africa	2017-09-19	
+EPI_ISL_369366	A/ostrich/South Africa/002/2017	A / H5N8	Ostrich	Africa / South Africa	2017-10-26	
+EPI_ISL_505431	A/quail/South Africa/AI5930/2018	A / H5N8	Quail	Africa / South Africa	2018-04-06	
+EPI_ISL_505432	A/chicken/South Africa/499723/2018	A / H5N8	Chicken	Africa / South Africa	2018-06-06	
+EPI_ISL_405278	A/guinea_fowl/Nigeria/OG-GF11T_19VIR8424-7/2019_H5N8	A / H5N8	Guineafowl	Africa / Nigeria / Ogun State	2019-07-05	Domestic
+EPI_ISL_525459	A/laying_hen/Poland/312/2020	A / H5N8	Chicken	Europe / Poland	2020-03-05	
