@@ -1,0 +1,1756 @@
+<?xml version="1.0" standalone="yes"?>
+<beast version="1.10.4">
+
+
+	<taxa id="taxa">
+
+		<taxon id="EPI_ISL_402134">
+			<date value="2019.9972602739726" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.25 23.1
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525439">
+			<date value="2020.0027397260274" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				52.28 17.35
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525441">
+			<date value="2020.0054794520547" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.25 23.1
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_405813">
+			<date value="2020.0164383561644" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				51.25 23.1
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525442">
+			<date value="2020.0246575342467" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_419220">
+			<date value="2020.0246575342467" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				47.16 19.5
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_419239">
+			<date value="2020.027397260274" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				47.16 19.5
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525443">
+			<date value="2020.0328767123287" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_404993">
+			<date value="2020.0438356164384" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				52.41 12.53
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525444">
+			<date value="2020.0465753424658" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_405391">
+			<date value="2020.0465753424658" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				49.45 15.64
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525445">
+			<date value="2020.0684931506848" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525446">
+			<date value="2020.0739726027398" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_410291">
+			<date value="2020.1013698630136" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				48.66 9.35
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525448">
+			<date value="2020.1041095890412" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_418266">
+			<date value="2020.131506849315" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				49.94 16.29
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525449">
+			<date value="2020.1397260273973" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525450">
+			<date value="2020.1397260273973" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525451">
+			<date value="2020.1424657534246" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525452">
+			<date value="2020.1424657534246" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525453">
+			<date value="2020.145205479452" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525454">
+			<date value="2020.145205479452" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525464">
+			<date value="2020.1561643835616" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_415197">
+			<date value="2020.1972602739727" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.1 13.2
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_417415">
+			<date value="2020.2191780821918" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				52.64 9.85
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_417414">
+			<date value="2020.2191780821918" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				51.1 13.2
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_525461">
+			<date value="2020.227397260274" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.92 19.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_780096">
+			<date value="2020.2328767123288" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_796011">
+			<date value="2020.2356164383561" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_419312">
+			<date value="2020.2356164383561" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				51.1 13.2
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_419314">
+			<date value="2020.2383561643835" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				51.95 11.69
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_804043">
+			<date value="2020.268493150685" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_833482">
+			<date value="2020.2767123287672" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_808250">
+			<date value="2020.2794520547945" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_833485">
+			<date value="2020.2876712328766" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				46.42 20.26
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_810963">
+			<date value="2020.2876712328766" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_833488">
+			<date value="2020.2986301369863" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_833580">
+			<date value="2020.2986301369863" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_833487">
+			<date value="2020.3013698630136" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_811134">
+			<date value="2020.3068493150686" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				46.42 20.26
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_811144">
+			<date value="2020.331506849315" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				46.67 21.04
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_811146">
+			<date value="2020.331506849315" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				46.42 20.26
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_813972">
+			<date value="2020.3616438356164" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				46.67 21.04
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_846586">
+			<date value="2020.4301369863015" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				46.57 19.43
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_631824">
+			<date value="2020.8082191780823" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				36.8 127.7
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_697771">
+			<date value="2020.8164383561643" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				43.22 142.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009695">
+			<date value="2020.8438356164384" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				36.52 126.8
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_681286">
+			<date value="2020.8465753424657" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				34.22 134.02
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009697">
+			<date value="2020.8986301369864" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				35.72 127.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009699">
+			<date value="2020.9041095890411" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				35.72 127.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985179">
+			<date value="2020.9068493150685" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				35.72 127.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985180">
+			<date value="2020.9205479452055" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				36.49 128.89
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009702">
+			<date value="2020.9205479452055" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				34.87 126.99
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009703">
+			<date value="2020.9205479452055" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				37.41 127.52
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009705">
+			<date value="2020.9205479452055" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				36.52 126.8
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009706">
+			<date value="2020.9232876712329" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				36.49 128.89
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985181">
+			<date value="2020.9287671232876" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				34.87 126.99
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985185">
+			<date value="2020.9397260273972" direction="forwards" units="years"/>
+			<attr name="host2">
+				Wild-gal
+			</attr>
+			<attr name="loc">
+				37.41 127.52
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985186">
+			<date value="2020.9424657534246" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				34.87 126.99
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985188">
+			<date value="2020.945205479452" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				34.87 126.99
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985189">
+			<date value="2020.9479452054795" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				34.87 126.99
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985190">
+			<date value="2020.9479452054795" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				34.87 126.99
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985192">
+			<date value="2020.9561643835616" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				35.72 127.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985195">
+			<date value="2020.9616438356165" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				37.41 127.52
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985198">
+			<date value="2020.9753424657533" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				37.41 127.52
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985200">
+			<date value="2020.978082191781" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				36.8 127.7
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1063533">
+			<date value="2020.978082191781" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				31.6 130.56
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985204">
+			<date value="2020.9808219178083" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				34.87 126.99
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985209">
+			<date value="2020.9945205479453" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				37.41 127.52
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_985210">
+			<date value="2020.9945205479453" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				37.41 127.52
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009679">
+			<date value="2020.9945205479453" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				36.52 126.8
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009681">
+			<date value="2020.9972602739726" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				36.52 126.8
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_1009684">
+			<date value="2021.0" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				35.72 127.15
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369336">
+			<date value="2017.4657534246576" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369338">
+			<date value="2017.5123287671233" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369340">
+			<date value="2017.5835616438355" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369339">
+			<date value="2017.5835616438355" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285488">
+			<date value="2017.5890410958905" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285604">
+			<date value="2017.5890410958905" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285650">
+			<date value="2017.5890410958905" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285936">
+			<date value="2017.5890410958905" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369341">
+			<date value="2017.5917808219178" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285616">
+			<date value="2017.6109589041096" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_381813">
+			<date value="2017.6246575342466" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_381814">
+			<date value="2017.6246575342466" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285610">
+			<date value="2017.6246575342466" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285617">
+			<date value="2017.6246575342466" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285652">
+			<date value="2017.6246575342466" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285942">
+			<date value="2017.6246575342466" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285938">
+			<date value="2017.6246575342466" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_284004">
+			<date value="2017.6383561643836" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285512">
+			<date value="2017.6383561643836" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285944">
+			<date value="2017.6383561643836" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_284198">
+			<date value="2017.641095890411" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285480">
+			<date value="2017.641095890411" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285509">
+			<date value="2017.641095890411" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285945">
+			<date value="2017.641095890411" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285606">
+			<date value="2017.641095890411" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285607">
+			<date value="2017.641095890411" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285623">
+			<date value="2017.6438356164383" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369348">
+			<date value="2017.6465753424657" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285937">
+			<date value="2017.6465753424657" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285947">
+			<date value="2017.6465753424657" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285625">
+			<date value="2017.6465753424657" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285647">
+			<date value="2017.6575342465753" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285609">
+			<date value="2017.6602739726027" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285657">
+			<date value="2017.6602739726027" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369351">
+			<date value="2017.66301369863" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285915">
+			<date value="2017.66301369863" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369352">
+			<date value="2017.676712328767" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_378312">
+			<date value="2017.676712328767" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-ans
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285602">
+			<date value="2017.676712328767" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285648">
+			<date value="2017.676712328767" direction="forwards" units="years"/>
+			<attr name="host2">
+				Waterfowl
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285624">
+			<date value="2017.676712328767" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_365299">
+			<date value="2017.682191780822" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369353">
+			<date value="2017.682191780822" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285649">
+			<date value="2017.6876712328767" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_285917">
+			<date value="2017.6876712328767" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-33.23 21.86
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369357">
+			<date value="2017.7095890410958" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369359">
+			<date value="2017.7150684931507" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369361">
+			<date value="2017.7150684931507" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369362">
+			<date value="2017.717808219178" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_369363">
+			<date value="2017.7287671232878" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_505431">
+			<date value="2018.2630136986302" direction="forwards" units="years"/>
+			<attr name="host2">
+				Other
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_505432">
+			<date value="2018.4301369863015" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				-30.56 22.94
+			</attr>
+		</taxon>
+
+
+		<taxon id="EPI_ISL_405278">
+			<date value="2019.509589041096" direction="forwards" units="years"/>
+			<attr name="host2">
+				Dom-gal
+			</attr>
+			<attr name="loc">
+				7.0 3.47
+			</attr>
+		</taxon>
+
+	</taxa>
+
+	<!-- paste your sequences here -->
+
+	<mergePatterns id="CP1+2.patterns">
+		<patterns from="1" every="3" strip="false">
+			<alignment idref="alignment"/>
+		</patterns>
+
+		<patterns from="2" every="3" strip="false">
+			<alignment idref="alignment"/>
+		</patterns>
+	</mergePatterns>
+
+	<patterns id="CP3.patterns" from="3" every="3" strip="false">
+		<alignment idref="alignment"/>
+	</patterns>
+
+
+
+	<generalDataType id="host2.dataType">
+		<state code="Waterfowl"/>
+		<state code="Wild-gal"/>
+		<state code="Dom-ans"/>
+		<state code="Dom-gal"/>
+		<state code="Seabird"/>
+		<state code="Other"/>
+	</generalDataType>
+
+
+
+	<attributePatterns id="host2.pattern" attribute="host2">
+		<taxa idref="taxa"/>
+		<generalDataType idref="host2.dataType"/>
+	</attributePatterns>
+
+
+
+	<constantSize id="constant" units="years">
+		<populationSize>
+			<parameter id="constant.popSize" value="1.0" lower="0.0"/>
+		</populationSize>
+	</constantSize>
+
+
+
+	<empiricalTreeDistributionModel id="treeModel" fileName="./ext_1_1_1_1_1_1_1_1_NA.combined.trees">
+		<taxa idref="taxa"/>
+		<nodeTraits rootNode="false" internalNodes="false" leafNodes="true" traitDimension="2" name="loc">
+			<parameter id="leafTraits"/>
+		</nodeTraits>
+	</empiricalTreeDistributionModel>
+	<statistic id="treeModel.currentTree" name="Current Tree">
+		<empiricalTreeDistributionModel idref="treeModel"/>
+	</statistic>
+
+
+
+	<coalescentLikelihood id="coalescent">
+		<model>
+			<constantSize idref="constant"/>
+		</model>
+		<populationTree>
+			<treeModel idref="treeModel"/>
+		</populationTree>
+	</coalescentLikelihood>
+
+
+
+	<strictClockBranchRates id="host2.branchRates">
+		<rate>
+			<parameter id="host2.clock.rate" value="1.0" lower="0.0"/>
+		</rate>
+	</strictClockBranchRates>
+	<rateStatistic id="host2.meanRate" name="host2.meanRate" mode="mean" internal="true" external="true">
+		<treeModel idref="treeModel"/>
+		<strictClockBranchRates idref="host2.branchRates"/>
+	</rateStatistic>
+
+	<generalSubstitutionModel id="host2.model" randomizeIndicator="false">
+		<generalDataType idref="host2.dataType"/>
+		<frequencies>
+			<frequencyModel id="host2.frequencyModel" normalize="true">
+				<generalDataType idref="host2.dataType"/>
+				<frequencies>
+					<parameter id="host2.frequencies" dimension="6"/>
+				</frequencies>
+			</frequencyModel>
+		</frequencies>
+
+		<rates>
+			<parameter id="host2.rates" dimension="30" value="1.0" lower="0.0"/>
+		</rates>
+		<rateIndicator>
+			<parameter id="host2.indicators" dimension="30" value="1.0"/>
+		</rateIndicator>
+	</generalSubstitutionModel>
+	<sumStatistic id="host2.nonZeroRates" elementwise="true">
+		<parameter idref="host2.indicators"/>
+	</sumStatistic>
+	<productStatistic id="host2.actualRates" elementwise="false">
+		<parameter idref="host2.indicators"/>
+		<parameter idref="host2.rates"/>
+	</productStatistic>
+	<siteModel id="host2.siteModel">
+		<substitutionModel>
+			<generalSubstitutionModel idref="host2.model"/>
+		</substitutionModel>
+	</siteModel>
+
+	<!-- Likelihood for tree given discrete trait data                           -->
+	<ancestralTreeLikelihood id="host2.treeLikelihood" stateTagName="host2.states" useUniformization="true" saveCompleteHistory="false" logCompleteHistory="false">
+		<attributePatterns idref="host2.pattern"/>
+		<treeModel idref="treeModel"/>
+		<siteModel idref="host2.siteModel"/>
+		<generalSubstitutionModel idref="host2.model"/>
+		<generalSubstitutionModel idref="host2.model"/>
+		<strictClockBranchRates idref="host2.branchRates"/>
+
+		<!-- The root state frequencies                                              -->
+		<frequencyModel id="host2.root.frequencyModel" normalize="true">
+			<generalDataType idref="host2.dataType"/>
+			<frequencies>
+				<parameter id="host2.root.frequencies" dimension="6"/>
+			</frequencies>
+		</frequencyModel>
+	</ancestralTreeLikelihood>
+
+
+
+	<multivariateDiffusionModel id="loc.diffusionModel">
+		<precisionMatrix>
+			<matrixParameter id="loc.precision">
+				<parameter id="loc.precision.col1" value="0.05 0.002"/>
+				<parameter id="loc.precision.col2" value="0.002 0.05"/>
+			</matrixParameter>
+		</precisionMatrix>
+	</multivariateDiffusionModel>
+
+	<multivariateWishartPrior id="loc.precisionPrior" df="2">
+		<scaleMatrix>
+			<matrixParameter>
+				<parameter value="1.0 0.0"/>
+				<parameter value="0.0 1.0"/>
+			</matrixParameter>
+		</scaleMatrix>
+		<data>
+			<parameter idref="loc.precision"/>
+		</data>
+	</multivariateWishartPrior>
+
+	<arbitraryBranchRates id="loc.diffusion.branchRates">
+		<treeModel idref="treeModel"/>
+		<rates>
+			<parameter id="loc.diffusion.rates" lower="0.0"/>
+		</rates>
+	</arbitraryBranchRates>
+	<distributionLikelihood id="loc.diffusion.prior">
+		<data>
+			<parameter idref="loc.diffusion.rates"/>
+		</data>
+		<distribution>
+			<onePGammaDistributionModel>
+				<shape>
+					<!-- half DF (i.e., df = 1)                                                  -->
+					<parameter value="0.5"/>
+				</shape>
+			</onePGammaDistributionModel>
+		</distribution>
+	</distributionLikelihood>
+
+	<multivariateTraitLikelihood id="loc.traitLikelihood" traitName="loc" useTreeLength="true" scaleByTime="true" reportAsMultivariate="true" reciprocalRates="true" integrateInternalTraits="true">
+		<multivariateDiffusionModel idref="loc.diffusionModel"/>
+		<treeModel idref="treeModel"/>
+		<traitParameter>
+			<parameter id="leaf.loc"/>
+		</traitParameter>
+		<jitter window="0.001 0.001" duplicatesOnly="true">
+			<parameter idref="leaf.loc"/>
+		</jitter>
+		<conjugateRootPrior>
+			<meanParameter>
+				<parameter value="0.0 0.0"/>
+			</meanParameter>
+			<priorSampleSize>
+				<parameter value="0.000001"/>
+			</priorSampleSize>
+		</conjugateRootPrior>
+		<arbitraryBranchRates idref="loc.diffusion.branchRates"/>
+	</multivariateTraitLikelihood>
+	<correlation id="loc.correlation" dimension1="1" dimension2="2">
+		<matrixParameter idref="loc.precision"/>
+	</correlation>
+	<matrixInverse id="loc.varCovar">
+		<matrixParameter idref="loc.precision"/>
+	</matrixInverse>
+	<continuousDiffusionStatistic id="loc.diffusionRate" greatCircleDistance="true">
+		<multivariateTraitLikelihood idref="loc.traitLikelihood"/>
+	</continuousDiffusionStatistic>
+
+
+
+	<treeLengthStatistic id="treeLength">
+		<treeModel idref="treeModel"/>
+	</treeLengthStatistic>
+
+
+
+	<operators id="operators" optimizationSchedule="log">
+		<scaleOperator scaleFactor="0.75" weight="3">
+			<parameter idref="host2.clock.rate"/>
+		</scaleOperator>
+
+		<scaleOperator scaleFactor="0.75" weight="30">
+			<parameter idref="loc.diffusion.rates"/>
+		</scaleOperator>
+		<scaleOperator scaleFactor="0.75" weight="15" scaleAllIndependently="true">
+			<parameter idref="host2.rates"/>
+		</scaleOperator>
+		<bitFlipOperator weight="7">
+			<parameter idref="host2.indicators"/>
+		</bitFlipOperator>
+		<deltaExchange delta="0.75" weight="1">
+			<parameter idref="host2.root.frequencies"/>
+		</deltaExchange>
+
+		<empiricalTreeDistributionOperator weight="0.2">
+			<empiricalTreeDistributionModel idref="treeModel"/>
+		</empiricalTreeDistributionOperator>
+
+		<precisionGibbsOperator weight="2">
+			<multivariateTraitLikelihood idref="loc.traitLikelihood"/>
+			<multivariateWishartPrior idref="loc.precisionPrior"/>
+		</precisionGibbsOperator>
+	</operators>
+
+
+
+	<mcmc id="mcmc" chainLength="50000000" autoOptimize="true">
+		<joint id="joint">
+			<prior id="prior">
+				<ctmcScalePrior>
+					<ctmcScale>
+						<parameter idref="host2.clock.rate"/>
+					</ctmcScale>
+					<treeModel idref="treeModel"/>
+				</ctmcScalePrior>
+
+				<poissonPrior mean="5.0" offset="0.0">
+					<statistic idref="host2.nonZeroRates"/>
+				</poissonPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host2.frequencies"/>
+				</uniformPrior>
+				<cachedPrior>
+					<gammaPrior shape="1.0" scale="1.0" offset="0.0">
+						<parameter idref="host2.rates"/>
+					</gammaPrior>
+					<parameter idref="host2.rates"/>
+				</cachedPrior>
+				<uniformPrior lower="0.0" upper="1.0">
+					<parameter idref="host2.root.frequencies"/>
+				</uniformPrior>
+
+				<coalescentLikelihood idref="coalescent"/>
+				<strictClockBranchRates idref="host2.branchRates"/>
+				<distributionLikelihood idref="loc.diffusion.prior"/>
+				<multivariateWishartPrior idref="loc.precisionPrior"/>
+				<generalSubstitutionModel idref="host2.model"/>
+			</prior>
+
+			<likelihood id="likelihood">
+				<multivariateTraitLikelihood idref="loc.traitLikelihood"/>
+				<ancestralTreeLikelihood idref="host2.treeLikelihood"/>
+			</likelihood>
+		</joint>
+		<operators idref="operators"/>
+
+
+		<!-- write log to screen                                                     -->
+		<log id="screenLog" logEvery="5000">
+			<column label="Joint" dp="4" width="12">
+				<joint idref="joint"/>
+			</column>
+			<column label="Prior" dp="4" width="12">
+				<prior idref="prior"/>
+			</column>
+			<column label="Likelihood" dp="4" width="12">
+				<likelihood idref="likelihood"/>
+			</column>
+
+			<column label="host2.clock.rate" sf="6" width="12">
+				<parameter idref="host2.clock.rate"/>
+			</column>
+
+			<column label="host2.nonZeroRates" dp="0" width="6">
+				<sumStatistic idref="host2.nonZeroRates"/>
+			</column>
+		</log>
+
+		<!-- write log to file                                                       -->
+		<log id="fileLog" logEvery="5000" fileName="ext_1_1_1_1_1_1_1_1_NA.emp.log" overwrite="false">
+			<joint idref="joint"/>
+			<prior idref="prior"/>
+			<likelihood idref="likelihood"/>
+
+			<treeLengthStatistic idref="treeLength"/>
+			<parameter idref="host2.clock.rate"/>
+			<rateStatistic idref="host2.meanRate"/>
+
+			<matrixParameter idref="loc.precision"/>
+			<correlation idref="loc.correlation"/>
+			<matrixInverse idref="loc.varCovar"/>
+			<continuousDiffusionStatistic idref="loc.diffusionRate"/>
+
+			<parameter idref="host2.rates"/>
+			<parameter idref="host2.indicators"/>
+
+			<sumStatistic idref="host2.nonZeroRates"/>
+
+			<strictClockBranchRates idref="host2.branchRates"/>
+
+			<multivariateTraitLikelihood idref="loc.traitLikelihood"/>
+			<ancestralTreeLikelihood idref="host2.treeLikelihood"/>
+			<!-- <coalescentLikelihood idref="coalescent"/> -->
+		</log>
+
+		<log id="ext_1_1_1_1_1_1_1_1_NA.emp.host2rateMatrixLog" logEvery="5000" fileName="ext_1_1_1_1_1_1_1_1_NA.emp.host2.rates.log">
+			<parameter idref="host2.rates"/>
+			<parameter idref="host2.indicators"/>
+			<sumStatistic idref="host2.nonZeroRates"/>
+		</log>
+
+		<!-- write tree log to file                                                  -->
+		<logTree id="treeFileLog" logEvery="5000" nexusFormat="true" fileName="ext_1_1_1_1_1_1_1_1_NA.emp.trees" sortTranslationTable="true">
+			<treeModel idref="treeModel"/>
+			<trait name="rate" tag="host2.rate">
+				<strictClockBranchRates idref="host2.branchRates"/>
+			</trait>
+			<joint idref="joint"/>
+
+			<trait name="loc" tag="loc">
+				<multivariateTraitLikelihood idref="loc.traitLikelihood"/>
+			</trait>
+			<trait name="host2.states" tag="host2">
+				<ancestralTreeLikelihood idref="host2.treeLikelihood"/>
+			</trait>
+
+			<multivariateDiffusionModel idref="loc.diffusionModel"/>
+			<multivariateTraitLikelihood idref="loc.traitLikelihood"/>
+			<trait name="rate" tag="loc.rate">
+				<arbitraryBranchRates idref="loc.diffusion.branchRates"/>
+			</trait>
+		</logTree>
+	</mcmc>
+
+
+
+	<report>
+		<property name="timer">
+			<mcmc idref="mcmc"/>
+		</property>
+	</report>
+
+</beast>
