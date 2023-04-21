@@ -12,10 +12,10 @@ According to the permissions of GISAID (https://gisaid.org/), the actucal sequen
 - visualization for Figure 2.
 
 ./blastn_h5n1.ipynb notebook including:
-- visualization for blastn analysis for H5N1 viruses isolated between 2021-2022 (fig S1-S9). 
+- visualization for blastn analysis for H5N1 viruses isolated between 2021-2022 (ED fig 1, fig S1-S8). 
 
 ./tree_prcessing.ipynb notebook including:
-- construct ML tree for each segment of all 2.3.4.4b HPAI H5N8 viruses isolated between 2019-12-32 to 2022.
+- construct ML tree for each segment of all 2.3.4.4b HPAI H5N8 viruses isolated between 2019-12-31 to 2022.
 - calculate MPD value for each internal node.
 - identify well supported monophyletic distinct group using a depth-first visit method.
 - annoated genotype information for each strain based on monophyletic group of each gene.
@@ -27,5 +27,5 @@ According to the permissions of GISAID (https://gisaid.org/), the actucal sequen
 - ML trees were constructed for H5N8 sequences and retrived top 500 hits using Fasttree. The most recent common ancestor for each monophyletic group was identified. Sequences within the larger clade subtending the second ancestor node with bootstrap value no less then 70% were selected.
 
 ./tree_beauti.ipynb notebook including:
-- visualization for the time, location and host estimation of MRCA and MRCGA of each monophyletic group of G0 and G1 H5N8 genotypes (fig S13, S14).
+- visualization for the time, location and host estimation of MRCA and MRCGA of each monophyletic group of G0 and G1 H5N8 genotypes (ED fig 2, ED fig 3).
 - visualization for the early spread of G0 and G1 H5N8 genotypes (Fig4 A, C)
